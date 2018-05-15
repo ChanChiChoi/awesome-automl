@@ -7,14 +7,12 @@ collecting related resources of automated machine learning here. some links were
 this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
 themes are as follow:   
 - 1.【Architecture Search】;【Random Search】; 【Evolutionary Algorithms】;【Transfer Learning】;【Reinforcement Learning】;【Local Search】;       
-- 2.【Hyperparameter Optimization】;【Bayesian Optimization】  
+- 2.【Hyperparameter Optimization】;【Bayesian Optimization】;【Meta Learning】;【Particle Swarm Optimization】;【Lipschitz Functions】;【Random Search】;【Transfer Learning】;【Local Search】;        
 - 3.【Multi-Objective NAS】;  
-- 4.【Meta Learning】;  
-- 5.【Lipschitz Functions】;  
-- 6.【Particle Swarm Optimization】;  
-- 7.【Automated Feature Engineering】;【Reinforcement Learning】;【Meta Learning】;        
-- 8.【Frameworks】;   
-- 9.【Miscellaneous】  
+- 4.【Automated Feature Engineering】;【Reinforcement Learning】;【Meta Learning】;        
+- 5.【Frameworks】;
+- 6.【Meta Learning】;    
+- 7.【Miscellaneous】  
 
 ---
 #### 2002
@@ -23,18 +21,18 @@ themes are as follow:
 #### 2008
 - 【book】【Meta Learning】Brazdil P, Carrier C G, Soares C, et al. [Metalearning: Applications to data mining](http://www.springer.com/la/book/9783540732624)[M]. Springer Science & Business Media, 2008.
 - 【Tutorials】【Meta Learning】[Metalearning - A Tutorial](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
-- 【Particle Swarm Optimization】Lin S W, Ying K C, Chen S C, et al. [Particle swarm optimization for parameter determination and feature selection of support vector machines](http://www.sciencedirect.com/science/article/pii/S0957417407003752)[J]. Expert systems with applications, 2008, 35(4): 1817-1824.
-- 【Meta Learning】Smith-Miles K A. [Cross-disciplinary perspectives on meta-learning for algorithm selection](https://dl.acm.org/citation.cfm?id=1456656)[J]. ACM Computing Surveys (CSUR), 2009, 41(1): 6.
+- 【Hyperparameter Optimization】【Particle Swarm Optimization】Lin S W, Ying K C, Chen S C, et al. [Particle swarm optimization for parameter determination and feature selection of support vector machines](http://www.sciencedirect.com/science/article/pii/S0957417407003752)[J]. Expert systems with applications, 2008, 35(4): 1817-1824.
+- 【Hyperparameter Optimization】【Meta Learning】Smith-Miles K A. [Cross-disciplinary perspectives on meta-learning for algorithm selection](https://dl.acm.org/citation.cfm?id=1456656)[J]. ACM Computing Surveys (CSUR), 2009, 41(1): 6.
 
 #### 2009 
-- 【Architecture Search】【Local Search】Hutter F, Hoos H H, Leyton-Brown K, et al. [ParamILS: an automatic algorithm configuration framework](https://arxiv.org/pdf/1401.3492.pdf)[J]. Journal of Artificial Intelligence Research, 2009, 36: 267-306.
+- 【Hyperparameter Optimization】【Local Search】Hutter F, Hoos H H, Leyton-Brown K, et al. [ParamILS: an automatic algorithm configuration framework](https://arxiv.org/pdf/1401.3492.pdf)[J]. Journal of Artificial Intelligence Research, 2009, 36: 267-306.
 
 #### 2010
 - 【Bayesian Optimization】Brochu E, Cora V M, De Freitas N. [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1012.2599v1.pdf)[J]. arXiv preprint arXiv:1012.2599, 2010.
 - 【Automated Feature Engineering】【Reinforcement Learning】Gaudel R, Sebag M. Feature selection as a one-player game[C]//International Conference on Machine Learning. 2010: 359--366.
 
 #### 2011
-- 【Architecture Search】【Random Search】Bergstra J S, Bardenet R, Bengio Y, et al. [Algorithms for hyper-parameter optimization](https://dl.acm.org/citation.cfm?id=2986743)[C]//Advances in neural information processing systems. 2011: 2546-2554.
+- 【Hyperparameter Optimization】【Random Search】Bergstra J S, Bardenet R, Bengio Y, et al. [Algorithms for hyper-parameter optimization](https://dl.acm.org/citation.cfm?id=2986743)[C]//Advances in neural information processing systems. 2011: 2546-2554.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Hutter F, Hoos H H, Leyton-Brown K. [Sequential model-based optimization for general algorithm configuration](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)[C]//International Conference on Learning and Intelligent Optimization. Springer, Berlin, Heidelberg, 2011: 507-523.
 
 #### 2012
@@ -86,8 +84,8 @@ themes are as follow:
 - 【Automated Feature Engineering】【Expand Reduce】Khurana U, Nargesian F, [Samulowitz H, et al. Automating Feature Engineering](http://workshops.inf.ed.ac.uk/nips2016-ai4datasci/papers/NIPS2016-AI4DataSci_paper_13.pdf)[J]. Transformation, 2016, 10(10): 10.
 
 #### 2017
-- 【Architecture Search】【Evolutionary Algorithms】Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/abs/1703.01041)[J]. arXiv preprint arXiv:1703.01041, 2017.
-- 【Lipschitz Functions】Malherbe C, Vayatis N. [Global optimization of Lipschitz functions](https://arxiv.org/pdf/1703.02628.pdf)[J]. arXiv preprint arXiv:1703.02628, 2017.
+- 【Architecture Search】【Hyperparameter Optimization】【Evolutionary Algorithms】Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/abs/1703.01041)[J]. arXiv preprint arXiv:1703.01041, 2017.
+- 【Hyperparameter Optimization】【Lipschitz Functions】Malherbe C, Vayatis N. [Global optimization of Lipschitz functions](https://arxiv.org/pdf/1703.02628.pdf)[J]. arXiv preprint arXiv:1703.02628, 2017.
 - 【Automated Feature Engineering】【Expand Reduce】Lam H T, Thiebaut J M, Sinn M, et al. [One button machine for automating feature engineering in relational databases](https://arxiv.org/pdf/1706.00327.pdf)[J]. arXiv preprint arXiv:1706.00327, 2017.
 - 【Architecture Search】Hazan E, Klivans A, Yuan Y. [Hyperparameter Optimization: A Spectral Approach](https://arxiv.org/abs/1706.00764
 )[J]. arXiv preprint arXiv:1706.00764, 2017.
@@ -96,14 +94,14 @@ themes are as follow:
 - 【Articles】【Meta Learning】[Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
 - 【Articles】【Meta Learning】[Why Meta-learning is Crucial for Further Advances of Artificial Intelligence?](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 - 【Architecture Search】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
-- 【Architecture Search】Bello I, Zoph B, Vasudevan V, et al. [Neural optimizer search with reinforcement learning](https://arxiv.org/abs/1709.07417)[J]. arXiv preprint arXiv:1709.07417, 2017.
+- 【Architecture Search】【reinforcement learning】Bello I, Zoph B, Vasudevan V, et al. [Neural optimizer search with reinforcement learning](https://arxiv.org/abs/1709.07417)[J]. arXiv preprint arXiv:1709.07417, 2017.
 - 【Automated Feature Engineering】【Reinforcement Learning】Khurana U, Samulowitz H, Turaga D. [Feature Engineering for Predictive Modeling using Reinforcement Learning](https://arxiv.org/pdf/1709.07150.pdf)[J]. arXiv preprint arXiv:1709.07150, 2017.
 - 【Architecture Search】Liu H, Simonyan K, Vinyals O, et al. [Hierarchical representations for efficient architecture search](https://arxiv.org/abs/1711.00436)[J]. arXiv preprint arXiv:1711.00436, 2017.
 - 【Architecture Search】【Local Search】Elsken T, Metzen J H, Hutter F. [Simple and efficient architecture search for convolutional neural networks](https://arxiv.org/abs/1711.04528)[J]. arXiv preprint arXiv:1711.04528, 2017.
 - 【Architecture Search】Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)[J]. arXiv preprint arXiv:1711.09846, 2017.
 - 【Architecture Search】Liu C, Zoph B, Shlens J, et al. [Progressive neural architecture search](https://arxiv.org/abs/1712.00559)[J]. arXiv preprint arXiv:1712.00559, 2017.
 - 【Architecture Search】Wistuba M. [Finding Competitive Network Architectures Within a Day Using UCT](https://arxiv.org/abs/1712.07420)[J]. arXiv preprint arXiv:1712.07420, 2017.
-- 【Particle Swarm Optimization】Lorenzo P R, Nalepa J, Kawulok M, et al. [Particle swarm optimization for hyper-parameter selection in deep neural networks](https://dl.acm.org/citation.cfm?id=3071208)[C]//Proceedings of the Genetic and Evolutionary Computation Conference. ACM, 2017: 481-488.
+- 【Hyperparameter Optimization】【Particle Swarm Optimization】Lorenzo P R, Nalepa J, Kawulok M, et al. [Particle swarm optimization for hyper-parameter selection in deep neural networks](https://dl.acm.org/citation.cfm?id=3071208)[C]//Proceedings of the Genetic and Evolutionary Computation Conference. ACM, 2017: 481-488.
 - 【Frameworks】Swearingen T, Drevo W, Cyphers B, et al. [ATM: A distributed, collaborative, scalable system for automated machine learning](https://cyphe.rs/static/atm.pdf)[C]//IEEE International Conference on Big Data. 2017.
 - 【Frameworks】Golovin D, Solnik B, Moitra S, et al. [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46180.pdf)[C]//Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017: 1487-1495.
 - 【Automated Feature Engineering】【Meta Learning】Nargesian F, Samulowitz H, Khurana U, et al. [Learning feature engineering for classification](https://www.ijcai.org/proceedings/2017/0352.pdf)[C]//Proceedings of the 26th International Joint Conference on Artificial Intelligence. AAAI Press, 2017: 2529-2535.
@@ -113,7 +111,7 @@ themes are as follow:
 - 【Architecture Search】Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
 - 【Architecture Search】【Reinforcement Learning】Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
 - 【Architecture Search】Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
-- 【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autostacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
+- 【Hyperparameter Optimization】【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autostacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
 - 【Make it more efficient】Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
 - 【Architecture Search】Kamath P, Singh A, Dutta D. [Neural Architecture Construction using EnvelopeNets](https://arxiv.org/abs/1803.06744)[J]. arXiv preprint arXiv:1803.06744, 2018.
 - 【Make it more efficient】Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
