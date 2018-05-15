@@ -40,16 +40,16 @@ themes are as follow:
 #### 2012
 - 【Architecture Search】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf  
 )[C]//Advances in neural information processing systems. 2012: 2951-2959.
-- 【Architecture Search】【Random Search】Bergstra J, Bengio Y. [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)[J]. Journal of Machine Learning Research, 2012, 13(Feb): 281-305.
+- 【Hyperparameter Optimization】【Random Search】Bergstra J, Bengio Y. [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)[J]. Journal of Machine Learning Research, 2012, 13(Feb): 281-305.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)[C]//Advances in neural information processing systems. 2012: 2951-2959.
 
 #### 2013
-- 【Transfer Learning】Bardenet R, Brendel M, Kégl B, et al. [Collaborative hyperparameter tuning](http://proceedings.mlr.press/v28/bardenet13.pdf)[C]//International Conference on Machine Learning. 2013: 199-207.
+- 【Hyperparameter Optimization】【Transfer Learning】Bardenet R, Brendel M, Kégl B, et al. [Collaborative hyperparameter tuning](http://proceedings.mlr.press/v28/bardenet13.pdf)[C]//International Conference on Machine Learning. 2013: 199-207.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Bergstra J, Yamins D, Cox D D. [Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures](http://proceedings.mlr.press/v28/bergstra13.pdf)[J]. 2013.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Thornton C, Hutter F, Hoos H H, et al. [Auto-WEKA: Combined selection and hyperparameter optimization of classification algorithms](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)[C]//Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2013: 847-855.
 
 #### 2014
-- 【Transfer Learning】Yogatama D, Mann G. [Efficient transfer learning method for automatic hyperparameter tuning](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)[C]//Artificial Intelligence and Statistics. 2014: 1077-1085.
+- 【Hyperparameter Optimization】【Transfer Learning】Yogatama D, Mann G. [Efficient transfer learning method for automatic hyperparameter tuning](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)[C]//Artificial Intelligence and Statistics. 2014: 1077-1085.
 
 #### 2015
 - 【Architecture Search】Young S R, Rose D C, Karnowski T P, et al. [Optimizing deep learning hyper-parameters through an evolutionary algorithm](https://dl.acm.org/citation.cfm?id=2834896)[C]//Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments. ACM, 2015: 4.
@@ -65,7 +65,7 @@ themes are as follow:
 
 #### 2016
 - 【Architecture Search】Mendoza H, Klein A, Feurer M, et al. [Towards automatically-tuned neural networks](http://proceedings.mlr.press/v64/mendoza_towards_2016.html)[C]//Workshop on Automatic Machine Learning. 2016: 58-65.
-- 【Architecture Search】【Random Search】Li L, Jamieson K, DeSalvo G, et al. [Hyperband: A novel bandit-based approach to hyperparameter optimization](https://arxiv.org/abs/1603.06560)[J]. arXiv preprint arXiv:1603.06560, 2016.
+- 【Hyperparameter Optimization】【Random Search】Li L, Jamieson K, DeSalvo G, et al. [Hyperband: A novel bandit-based approach to hyperparameter optimization](https://arxiv.org/abs/1603.06560)[J]. arXiv preprint arXiv:1603.06560, 2016.
 - 【Architecture Search】Loshchilov I, Hutter F. [CMA-ES for hyperparameter optimization of deep neural networks](https://arxiv.org/abs/1604.07269)[J]. arXiv preprint arXiv:1604.07269, 2016.
 - 【Make it more efficient】Klein A, Falkner S, Bartels S, et al. [Fast bayesian optimization of machine learning hyperparameters on large datasets](http://proceedings.mlr.press/v54/klein17a.html)[J]. arXiv preprint arXiv:1605.07079, 2016.
 - 【Architecture Search】【Meta Learning】Li K, Malik J. [Learning to optimize](https://arxiv.org/pdf/1606.01885.pdf)[J]. arXiv preprint arXiv:1606.01885, 2016.
@@ -74,8 +74,8 @@ themes are as follow:
 - 【Architecture Search】Baker B, Gupta O, Naik N, et al. [Designing neural network architectures using reinforcement learning](https://arxiv.org/abs/1611.02167)[J]. arXiv preprint arXiv:1611.02167, 2016.
 - 【Make it more efficient】Klein A, Falkner S, Springenberg J T, et al. [Learning curve prediction with Bayesian neural networks](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)[J]. 2016.
 - 【Articles】【Bayesian Optimization】[Bayesian Optimization for Hyperparameter Tuning](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
-- 【Transfer Learning】Wistuba M, Schilling N, Schmidt-Thieme L. [Hyperparameter optimization machines](http://ieeexplore.ieee.org/abstract/document/7796889/)[C]//Data Science and Advanced Analytics (DSAA), 2016 IEEE International Conference on. IEEE, 2016: 41-50.
-- 【Architecture Search】【Transfer Learning】Joy T T, Rana S, Gupta S K, et al. [Flexible transfer learning framework for bayesian optimisation](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)[C]//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2016: 102-114.
+- 【Hyperparameter Optimization】【Transfer Learning】Wistuba M, Schilling N, Schmidt-Thieme L. [Hyperparameter optimization machines](http://ieeexplore.ieee.org/abstract/document/7796889/)[C]//Data Science and Advanced Analytics (DSAA), 2016 IEEE International Conference on. IEEE, 2016: 41-50.
+- 【Hyperparameter Optimization】【Transfer Learning】Joy T T, Rana S, Gupta S K, et al. [Flexible transfer learning framework for bayesian optimisation](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)[C]//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2016: 102-114.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Two-stage transfer surrogate model for automatic hyperparameter optimization](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_13)[C]//Joint European conference on machine learning and knowledge discovery in databases. Springer, Cham, 2016: 199-214.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Mendoza H, Klein A, Feurer M, et al. [Towards automatically-tuned neural networks](http://aad.informatik.uni-freiburg.de/papers/16-AUTOML-AutoNet.pdf)[C]//Workshop on Automatic Machine Learning. 2016: 58-65.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Shahriari B, Swersky K, Wang Z, et al. [Taking the human out of the loop: A review of bayesian optimization](http://ieeexplore.ieee.org/document/7352306/)[J]. Proceedings of the IEEE, 2016, 104(1): 148-175.
