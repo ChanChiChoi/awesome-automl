@@ -4,9 +4,11 @@ collecting related resources of automated machine learning here. some links were
 - [literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [Algorithm Configuration Literature](http://aclib.net/acbib/)
 
----   
-
-### Architecture Search (and Hyperparameter Optimization):
+this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.
+themes are as follow:
+【Architecture Search】; 【Hyperparameter Optimization】
+---
+### Architecture Search (and):
 #### 2012
 - Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf  
 )[C]//Advances in neural information processing systems. 2012: 2951-2959.
