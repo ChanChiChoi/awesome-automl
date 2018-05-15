@@ -5,7 +5,6 @@ collecting related resources of automated machine learning here. some links were
 - [Algorithm Configuration Literature](http://aclib.net/acbib/)
 
 ---   
-# Papers
 
 ### Architecture Search (and Hyperparameter Optimization):
 #### 2012
@@ -39,14 +38,10 @@ collecting related resources of automated machine learning here. some links were
 - Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - Kamath P, Singh A, Dutta D. [Neural Architecture Construction using EnvelopeNets](https://arxiv.org/abs/1803.06744)[J]. arXiv preprint arXiv:1803.06744, 2018.
 
-### Make it more efficient
 #### 2016
-- Klein A, Falkner S, Springenberg J T, et al. [Learning curve prediction with Bayesian neural networks](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)[J]. 2016.
-- Klein A, Falkner S, Bartels S, et al. [Fast bayesian optimization of machine learning hyperparameters on large datasets](http://proceedings.mlr.press/v54/klein17a.html)[J]. arXiv preprint arXiv:1605.07079, 2016.
+- 【Make it more efficient】Klein A, Falkner S, Springenberg J T, et al. [Learning curve prediction with Bayesian neural networks](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)[J]. 2016.
+- 【Make it more efficient】Klein A, Falkner S, Bartels S, et al. [Fast bayesian optimization of machine learning hyperparameters on large datasets](http://proceedings.mlr.press/v54/klein17a.html)[J]. arXiv preprint arXiv:1605.07079, 2016.
 #### 2018
-- Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
-- Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
-
-### Multi-Objective NAS
-#### 2018
-- Dong J D, Cheng A C, Juan D C, et al. [PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM)[J]. 2018.
+- 【Make it more efficient】Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
+- 【Make it more efficient】Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
+- 【Multi-Objective NAS】Dong J D, Cheng A C, Juan D C, et al. [PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM)[J]. 2018.
