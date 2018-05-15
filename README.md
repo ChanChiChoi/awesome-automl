@@ -6,8 +6,10 @@ collecting related resources of automated machine learning here. some links were
 
 this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
 themes are as follow:   
-- 1.【Architecture Search】;【Random Search】; 【Evolutionary Algorithms】;【Transfer Learning】;【Reinforcement Learning】;【Local Search】;       
-- 2.【Hyperparameter Optimization】;【Bayesian Optimization】;【Meta Learning】;【Particle Swarm Optimization】;【Lipschitz Functions】;【Random Search】;【Transfer Learning】;【Local Search】;        
+- 1.【Architecture Search】:    
+【Random Search】; 【Evolutionary Algorithms】;【Transfer Learning】;【Reinforcement Learning】;【Local Search】;       
+- 2.【Hyperparameter Optimization】:    
+【Bayesian Optimization】;【Meta Learning】;【Particle Swarm Optimization】;【Lipschitz Functions】;【Random Search】;【Transfer Learning】;【Local Search】;        
 - 3.【Multi-Objective NAS】;  
 - 4.【Automated Feature Engineering】;【Reinforcement Learning】;【Meta Learning】;        
 - 5.【Frameworks】;
