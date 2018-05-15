@@ -7,25 +7,20 @@ collecting related resources of automated machine learning here. some links were
 ---   
 # Papers
 
-## Architecture Search (and Hyperparameter Optimization):
+### Architecture Search (and Hyperparameter Optimization):
 - Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
 - Kamath P, Singh A, Dutta D. [Neural Architecture Construction using EnvelopeNets](https://arxiv.org/abs/1803.06744)[J]. arXiv preprint arXiv:1803.06744, 2018.
 - Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
+- Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/abs/1703.01041)[J]. arXiv preprint arXiv:1703.01041, 2017.
+- Liu H, Simonyan K, Vinyals O, et al. [Hierarchical representations for efficient architecture search](https://arxiv.org/abs/1711.00436)[J]. arXiv preprint arXiv:1711.00436, 2017.
+- Bello I, Zoph B, Vasudevan V, et al. [Neural optimizer search with reinforcement learning](https://arxiv.org/abs/1709.07417)[J]. arXiv preprint arXiv:1709.07417, 2017.
+- Liu C, Zoph B, Shlens J, et al. [Progressive neural architecture search](https://arxiv.org/abs/1712.00559)[J]. arXiv preprint arXiv:1712.00559, 2017.
+- Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012)[J]. arXiv preprint arXiv:1707.07012, 2017.
+- Elsken T, Metzen J H, Hutter F. [Simple and efficient architecture search for convolutional neural networks](https://arxiv.org/abs/1711.04528)[J]. arXiv preprint arXiv:1711.04528, 2017.
 
 
-Large-Scale Evolution of Image Classifiers (Real et al. 2017)
-https://arxiv.org/abs/1703.01041
-Hierarchical Representations for Efficient Architecture Search (Liu et al. 2017)
-https://arxiv.org/abs/1711.00436
-Neural Optimizer Search with Reinforcement Learning (Bello et al. 2017)
-https://arxiv.org/abs/1709.07417
-Progressive Neural Architecture Search (Liu et al. 2017)
-https://arxiv.org/abs/1712.00559
-Learning Transferable Architectures for Scalable Image Recognition (Zoph et al. 2017)
-https://arxiv.org/abs/1707.07012
-Simple And Efficient Architecture Search for Convolutional Neural Networks (Elsken et al. 2017) 
-https://arxiv.org/abs/1711.04528
+
 Finding Competitive Network Architectures Within a Day Using UCT (Wistuba 2017) 
 https://arxiv.org/abs/1712.07420
 Hyperparameter Optimization: A Spectral Approach (Hazan et al. 2017)
