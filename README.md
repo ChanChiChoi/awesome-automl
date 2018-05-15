@@ -7,6 +7,7 @@ collecting related resources of automated machine learning here. some links were
 this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.
 themes are as follow:
 【Architecture Search】; 【Hyperparameter Optimization】
+
 ---
 ### Architecture Search (and):
 #### 2012
