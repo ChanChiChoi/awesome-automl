@@ -4,8 +4,8 @@ collecting related resources of automated machine learning here. some links were
 - [literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [Algorithm Configuration Literature](http://aclib.net/acbib/)
 
-this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.
-themes are as follow:
+this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
+themes are as follow:   
 【Architecture Search】; 【Hyperparameter Optimization】
 
 ---
