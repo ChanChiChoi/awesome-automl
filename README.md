@@ -37,15 +37,25 @@ themes are as follow:
 - 【Architecture Search】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf  
 )[C]//Advances in neural information processing systems. 2012: 2951-2959.
 - 【Random Search】Bergstra J, Bengio Y. [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)[J]. Journal of Machine Learning Research, 2012, 13(Feb): 281-305.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)[C]//Advances in neural information processing systems. 2012: 2951-2959.
 
 #### 2013
 - 【Transfer Learning】Bardenet R, Brendel M, Kégl B, et al. [Collaborative hyperparameter tuning](http://proceedings.mlr.press/v28/bardenet13.pdf)[C]//International Conference on Machine Learning. 2013: 199-207.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Bergstra J, Yamins D, Cox D D. [Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures](http://proceedings.mlr.press/v28/bergstra13.pdf)[J]. 2013.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Thornton C, Hutter F, Hoos H H, et al. [Auto-WEKA: Combined selection and hyperparameter optimization of classification algorithms](http://www.cs.ubc.ca/labs/beta/Projects/autoweka/papers/autoweka.pdf)[C]//Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2013: 847-855.
 
 #### 2014
 - 【Transfer Learning】Yogatama D, Mann G. [Efficient transfer learning method for automatic hyperparameter tuning](https://pdfs.semanticscholar.org/75f2/6734972ebaffc6b43d45abd3048ef75f15a5.pdf)[C]//Artificial Intelligence and Statistics. 2014: 1077-1085.
 
 #### 2015
 - 【Architecture Search】Young S R, Rose D C, Karnowski T P, et al. [Optimizing deep learning hyper-parameters through an evolutionary algorithm](https://dl.acm.org/citation.cfm?id=2834896)[C]//Proceedings of the Workshop on Machine Learning in High-Performance Computing Environments. ACM, 2015: 4.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Sequential model-free hyperparameter tuning](http://ieeexplore.ieee.org/abstract/document/7373431/)[C]//Data Mining (ICDM), 2015 IEEE International Conference on. IEEE, 2015: 1033-1038.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Snoek J, Rippel O, Swersky K, et al. [Scalable bayesian optimization using deep neural networks](https://dl.acm.org/citation.cfm?id=3045349)[C]//International conference on machine learning. 2015: 2171-2180.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Learning hyperparameter optimization initializations](http://ieeexplore.ieee.org/abstract/document/7344817/)[C]//Data Science and Advanced Analytics (DSAA), 2015. 36678 2015. IEEE International Conference on. IEEE, 2015: 1-10.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Schilling N, Wistuba M, Drumond L, et al. [Joint model choice and hyperparameter optimization with factorized multilayer perceptrons](http://ieeexplore.ieee.org/abstract/document/7372120/)[C]//Tools with Artificial Intelligence (ICTAI), 2015 IEEE 27th International Conference on. IEEE, 2015: 72-79.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Hyperparameter search space pruning–a new component for sequential model-based hyperparameter optimization](https://dl.acm.org/citation.cfm?id=2991491)[C]//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2015: 104-119.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Schilling N, Wistuba M, Drumond L, et al. [Hyperparameter optimization with factorized multilayer perceptrons](https://link.springer.com/chapter/10.1007/978-3-319-23525-7_6)[C]//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2015: 87-103.
+- 【Hyperparameter Optimization】【Bayesian Optimization】Feurer M, Klein A, Eggensperger K, et al. [Efficient and robust automated machine learning](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)[C]//Advances in Neural Information Processing Systems. 2015: 2962-2970.
 
 #### 2016
 - 【Architecture Search】Mendoza H, Klein A, Feurer M, et al. [Towards automatically-tuned neural networks](http://proceedings.mlr.press/v64/mendoza_towards_2016.html)[C]//Workshop on Automatic Machine Learning. 2016: 58-65.
