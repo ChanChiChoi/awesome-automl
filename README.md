@@ -124,5 +124,10 @@ Themes are as follow:
 - 【Miscellaneous】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
 
 ---
-### blogs & articles
-- [automl_aws_data_science](https://alexisperrier.com/aws/2017/12/04/automl_aws_data_science.html)
+### blogs & articles & book
+
+#### 2017
+- 【articles】[automl_aws_data_science](https://alexisperrier.com/aws/2017/12/04/automl_aws_data_science.html)
+#### 2018
+- 【book】Sibanjan Das, Umit Mert Cakmak - [Hands-On Automated Machine Learning](https://libgen.io/search.php?req=+automated+machine+learning+&open=0&res=25&view=simple&phrase=1&column=def) (2018, Packt Publishing)
+
