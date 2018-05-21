@@ -5,10 +5,10 @@ collecting related resources of automated machine learning here. some links were
 - [Algorithm Configuration Literature](http://aclib.net/acbib/)
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),     
-  or get search result from [reddit](https://www.reddit.com/search?q=automl),    
-  or access the website [automl](http://www.ml4aad.org),    
-  or get search result from [quora](https://www.quora.com/search?q=automl),    
-  or others to find some perfect resources there.
+&nbsp;&nbsp;  or get search result from [reddit](https://www.reddit.com/search?q=automl),    
+&nbsp;&nbsp;  or access the website [automl](http://www.ml4aad.org),    
+&nbsp;&nbsp;  or get search result from [quora](https://www.quora.com/search?q=automl),    
+&nbsp;&nbsp;  or others to find some perfect resources there.
 
 ---
 This papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
