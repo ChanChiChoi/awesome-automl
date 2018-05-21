@@ -6,7 +6,7 @@ collecting related resources of automated machine learning here. some links were
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),   
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
-&nbsp;&nbsp;  or get search result from [reddit](https://www.reddit.com/search?q=automl), [bing](https://cn.bing.com/search?q=automated+machine+learning&FORM=BESBTB&ensearch=1), [quora](https://www.quora.com/search?q=automl),(the search keyword should be "automatic machine learning","automl","meta learning","automated machine learning" and so on)     
+&nbsp;&nbsp;  or get search result from [reddit](https://www.reddit.com/search?q=automl), [bing](https://cn.bing.com/search?q=automated+machine+learning&FORM=BESBTB&ensearch=1), [quora](https://www.quora.com/search?q=automl)(search keyword should be "automatic machine learning","automl","meta learning","automated machine learning" and so on),     
 &nbsp;&nbsp;  or access the website [automl](http://www.ml4aad.org),       
 &nbsp;&nbsp;  or others to find some perfect resources there.
 
