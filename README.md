@@ -39,7 +39,7 @@ Themes are as follow:
 
 #### 2010
 - 【Bayesian Optimization】Brochu E, Cora V M, De Freitas N. [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1012.2599v1.pdf)[J]. arXiv preprint arXiv:1012.2599, 2010.
-- 【Automated Feature Engineering】【Reinforcement Learning】Gaudel R, Sebag M. Feature selection as a one-player game[C]//International Conference on Machine Learning. 2010: 359--366.
+- 【Automated Feature Engineering】【Reinforcement Learning】Gaudel R, Sebag M. [Feature selection as a one-player game](https://hal.inria.fr/docs/00/48/40/49/PDF/fuse_icml10.pdf)[C]//International Conference on Machine Learning. 2010: 359--366.
 
 #### 2011
 - 【Hyperparameter Optimization】【Random Search】Bergstra J S, Bardenet R, Bengio Y, et al. [Algorithms for hyper-parameter optimization](https://dl.acm.org/citation.cfm?id=2986743)[C]//Advances in neural information processing systems. 2011: 2546-2554.
