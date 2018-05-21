@@ -24,6 +24,8 @@ Themes are as follow:
 - 7.【Miscellaneous】  
 
 ---
+## Papers
+
 #### 2002
 - 【Architecture Search】【Evolutionary Algorithms】Stanley K O, Miikkulainen R. [Evolving neural networks through augmenting topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)[J]. Evolutionary computation, 2002, 10(2): 99-127.
 
@@ -124,7 +126,7 @@ Themes are as follow:
 - 【Miscellaneous】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
 
 ---
-### blogs & articles & book
+## blogs & articles & book
 
 #### 2008
 - 【book】【Meta Learning】Brazdil P, Carrier C G, Soares C, et al. [Metalearning: Applications to data mining](http://www.springer.com/la/book/9783540732624)[M]. Springer Science & Business Media, 2008.
