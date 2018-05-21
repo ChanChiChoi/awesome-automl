@@ -46,8 +46,7 @@ Themes are as follow:
 - 【Hyperparameter Optimization】【Bayesian Optimization】Hutter F, Hoos H H, Leyton-Brown K. [Sequential model-based optimization for general algorithm configuration](https://www.cs.ubc.ca/~hutter/papers/10-TR-SMAC.pdf)[C]//International Conference on Learning and Intelligent Optimization. Springer, Berlin, Heidelberg, 2011: 507-523.
 
 #### 2012
-- 【Architecture Search】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf  
-)[C]//Advances in neural information processing systems. 2012: 2951-2959.
+- 【Architecture Search】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)[C]//Advances in neural information processing systems. 2012: 2951-2959.
 - 【Hyperparameter Optimization】【Random Search】Bergstra J, Bengio Y. [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)[J]. Journal of Machine Learning Research, 2012, 13(Feb): 281-305.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Snoek J, Larochelle H, Adams R P. [Practical bayesian optimization of machine learning algorithms](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)[C]//Advances in neural information processing systems. 2012: 2951-2959.
 
