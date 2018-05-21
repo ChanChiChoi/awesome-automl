@@ -28,7 +28,6 @@ Themes are as follow:
 - 【Architecture Search】【Evolutionary Algorithms】Stanley K O, Miikkulainen R. [Evolving neural networks through augmenting topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)[J]. Evolutionary computation, 2002, 10(2): 99-127.
 
 #### 2008
-- 【book】【Meta Learning】Brazdil P, Carrier C G, Soares C, et al. [Metalearning: Applications to data mining](http://www.springer.com/la/book/9783540732624)[M]. Springer Science & Business Media, 2008.
 - 【Tutorials】【Meta Learning】[Metalearning - A Tutorial](https://pdfs.semanticscholar.org/5794/1a4891f673cadf06fba02419372aad85c3bb.pdf)
 - 【Hyperparameter Optimization】【Particle Swarm Optimization】Lin S W, Ying K C, Chen S C, et al. [Particle swarm optimization for parameter determination and feature selection of support vector machines](http://www.sciencedirect.com/science/article/pii/S0957417407003752)[J]. Expert systems with applications, 2008, 35(4): 1817-1824.
 - 【Hyperparameter Optimization】【Meta Learning】Smith-Miles K A. [Cross-disciplinary perspectives on meta-learning for algorithm selection](https://dl.acm.org/citation.cfm?id=1456656)[J]. ACM Computing Surveys (CSUR), 2009, 41(1): 6.
@@ -80,7 +79,6 @@ Themes are as follow:
 - 【Architecture Search】【Reinforcement Learning】Zoph B, Le Q V. [Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)[J]. arXiv preprint arXiv:1611.01578, 2016.
 - 【Architecture Search】Baker B, Gupta O, Naik N, et al. [Designing neural network architectures using reinforcement learning](https://arxiv.org/abs/1611.02167)[J]. arXiv preprint arXiv:1611.02167, 2016.
 - 【Make it more efficient】Klein A, Falkner S, Springenberg J T, et al. [Learning curve prediction with Bayesian neural networks](http://ml.informatik.uni-freiburg.de/papers/17-ICLR-LCNet.pdf)[J]. 2016.
-- 【Articles】【Bayesian Optimization】[Bayesian Optimization for Hyperparameter Tuning](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
 - 【Hyperparameter Optimization】【Transfer Learning】Wistuba M, Schilling N, Schmidt-Thieme L. [Hyperparameter optimization machines](http://ieeexplore.ieee.org/abstract/document/7796889/)[C]//Data Science and Advanced Analytics (DSAA), 2016 IEEE International Conference on. IEEE, 2016: 41-50.
 - 【Hyperparameter Optimization】【Transfer Learning】Joy T T, Rana S, Gupta S K, et al. [Flexible transfer learning framework for bayesian optimisation](https://link.springer.com/chapter/10.1007/978-3-319-31753-3_9)[C]//Pacific-Asia Conference on Knowledge Discovery and Data Mining. Springer, Cham, 2016: 102-114.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Two-stage transfer surrogate model for automatic hyperparameter optimization](https://link.springer.com/chapter/10.1007/978-3-319-46128-1_13)[C]//Joint European conference on machine learning and knowledge discovery in databases. Springer, Cham, 2016: 199-214.
@@ -100,8 +98,6 @@ Themes are as follow:
 )[J]. arXiv preprint arXiv:1706.00764, 2017.
 - 【Architecture Search】Cai H, Chen T, Zhang W, et al. [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)[J].  arXiv preprint arXiv:1707.04873, 2017. (Cai et al. 2017)
 - 【Architecture Search】【Transfer Learning】Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012)[J]. arXiv preprint arXiv:1707.07012, 2017.
-- 【Articles】【Meta Learning】[Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
-- 【Articles】【Meta Learning】[Why Meta-learning is Crucial for Further Advances of Artificial Intelligence?](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 - 【Architecture Search】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
 - 【Architecture Search】【reinforcement learning】Bello I, Zoph B, Vasudevan V, et al. [Neural optimizer search with reinforcement learning](https://arxiv.org/abs/1709.07417)[J]. arXiv preprint arXiv:1709.07417, 2017.
 - 【Automated Feature Engineering】【Reinforcement Learning】Khurana U, Samulowitz H, Turaga D. [Feature Engineering for Predictive Modeling using Reinforcement Learning](https://arxiv.org/pdf/1709.07150.pdf)[J]. arXiv preprint arXiv:1709.07150, 2017.
@@ -130,8 +126,18 @@ Themes are as follow:
 ---
 ### blogs & articles & book
 
+#### 2008
+- 【book】【Meta Learning】Brazdil P, Carrier C G, Soares C, et al. [Metalearning: Applications to data mining](http://www.springer.com/la/book/9783540732624)[M]. Springer Science & Business Media, 2008.
+
+#### 2016
+- 【Articles】【Bayesian Optimization】[Bayesian Optimization for Hyperparameter Tuning](https://arimo.com/data-science/2016/bayesian-optimization-hyperparameter-tuning/)
+
 #### 2017
+- 【Articles】【Meta Learning】[Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+- 【Articles】【Meta Learning】[Why Meta-learning is Crucial for Further Advances of Artificial Intelligence?](https://chatbotslife.com/why-meta-learning-is-crucial-for-further-advances-of-artificial-intelligence-c2df55959adf)
 - 【articles】[automl_aws_data_science](https://alexisperrier.com/aws/2017/12/04/automl_aws_data_science.html)
+- 【news】[what-is-automl-promises-vs-realityauto](https://www.iotforall.com/what-is-automl-promises-vs-realityauto/)
+
 #### 2018
 - 【book】Sibanjan Das, Umit Mert Cakmak - [Hands-On Automated Machine Learning](https://libgen.io/search.php?req=+automated+machine+learning+&open=0&res=25&view=simple&phrase=1&column=def) (2018, Packt Publishing)
 
