@@ -6,8 +6,9 @@ collecting related resources of automated machine learning here. some links were
 
 you can take part in [automl Challenge](http://automl.chalearn.org/), or find some perfect resources there.
 
-this papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
-themes are as follow:   
+---
+This papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
+Themes are as follow:   
 - 1.【Architecture Search】:    
 【Random Search】; 【Evolutionary Algorithms】;【Transfer Learning】;【Reinforcement Learning】;【Local Search】; 
 - 2.【Hyperparameter Optimization】:    
@@ -121,3 +122,7 @@ themes are as follow:
 - 【Make it more efficient】Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
 - 【Multi-Objective NAS】Dong J D, Cheng A C, Juan D C, et al. [PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM)[J]. 2018.
 - 【Miscellaneous】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
+
+---
+### blogs & articles
+- [automl_aws_data_science](https://alexisperrier.com/aws/2017/12/04/automl_aws_data_science.html)
