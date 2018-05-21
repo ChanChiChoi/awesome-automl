@@ -4,7 +4,7 @@ collecting related resources of automated machine learning here. some links were
 - [literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [Algorithm Configuration Literature](http://aclib.net/acbib/)
 
-you can take part in [automl Challenge](http://automl.chalearn.org/),     
+you can take part in [automl Challenge](http://automl.chalearn.org/), or find competitions in [kaggle](https://www.kaggle.com)    
 &nbsp;&nbsp;  or get search result from [reddit](https://www.reddit.com/search?q=automl),    
 &nbsp;&nbsp;  or access the website [automl](http://www.ml4aad.org),    
 &nbsp;&nbsp;  or get search result from [quora](https://www.quora.com/search?q=automl),    
