@@ -11,7 +11,7 @@ you can take part in [automl Challenge](http://automl.chalearn.org/),
 &nbsp;&nbsp;  or others to find some perfect resources there.
 
 ---
-This papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can ctrl+F then highlight the papers.   
+This papers or books or slides are ordered by years, before each entity is the theme the entity belonged, if you want to choice one theme, e.g. "Architecture Search", you can **_ctrl+F_** then highlight the papers.   
 Themes are as follow:   
 - 1.【Architecture Search】:    
 【Random Search】; 【Evolutionary Algorithms】;【Transfer Learning】;【Reinforcement Learning】;【Local Search】; 
