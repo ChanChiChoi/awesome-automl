@@ -145,4 +145,7 @@ Themes are as follow:
 
 ---
 ## Libraries
-- [Featuretools](https://www.featuretools.com/):a good library for automatically engineering features from relational and transactional data
+- [Featuretools](https://www.featuretools.com/): a good library for automatically engineering features from relational and transactional data
+- [auto-sklearn](http://automl.github.io/auto-sklearn/stable/): it's really a drop-in replacement for scikit-learn estimators.
+- [MLBox](http://mlbox.readthedocs.io/en/latest/): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
+- Tree-Based Pipeline Optimization Tool (TPOT): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
