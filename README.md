@@ -145,4 +145,4 @@ Themes are as follow:
 
 ---
 ## Libraries
-- [Featuretools](https://www.featuretools.com/)
+- [Featuretools](https://www.featuretools.com/):a good library for automatically engineering features from relational and transactional data
