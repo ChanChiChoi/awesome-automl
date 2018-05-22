@@ -143,3 +143,6 @@ Themes are as follow:
 #### 2018
 - 【book】Sibanjan Das, Umit Mert Cakmak - [Hands-On Automated Machine Learning](https://libgen.io/search.php?req=+automated+machine+learning+&open=0&res=25&view=simple&phrase=1&column=def) (2018, Packt Publishing)
 
+---
+## Libraries
+- [Featuretools](https://www.featuretools.com/)
