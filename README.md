@@ -145,7 +145,26 @@ Themes are as follow:
 
 ---
 ## Libraries
+
 - [Featuretools](https://www.featuretools.com/): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](http://automl.github.io/auto-sklearn/stable/): it's really a drop-in replacement for scikit-learn estimators.
 - [MLBox](http://mlbox.readthedocs.io/en/latest/): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
-- Tree-Based Pipeline Optimization Tool (TPOT): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
+- 【python】[Advisor](https://github.com/tobegit3hub/advisor)
+- 【java】[Auto-WEKA](https://github.com/automl/autoweka)
+- 【python】[Hyperopt](https://github.com/hyperopt/hyperopt)
+- 【python】[Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
+- 【python】[SigOpt](https://sigopt.com/)
+- 【python】[SMAC3](https://github.com/automl/SMAC3)
+- 【python】[RoBO](https://github.com/automl/RoBO)
+- 【python】[BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
+- 【python】[Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize)
+- 【python】[HyperBand](https://github.com/zygmuntz/hyperband)
+- 【cpp】[BayesOpt](https://github.com/rmcantin/bayesopt)
+- 【python】[Optunity](https://github.com/claesenm/optunity)
+- 【python】[TPOT](https://github.com/rhiever/tpot): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
+- 【python】[ATM](https://github.com/HDI-Project/ATM)
+- 【python】[Cloud AutoML](https://cloud.google.com/automl/)
+- 【python】[H2O](https://www.h2o.ai/)
+- 【python】[DataRobot](https://www.datarobot.com/)
+- 【python】[MLJAR](https://mljar.com/)
+- 【python】[MateLabs](http://matelabs.in/)
