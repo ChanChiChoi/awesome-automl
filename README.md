@@ -27,6 +27,10 @@ Themes are as follow:
 ---
 ## Papers
 
+#### 1990
+- 【Architecture Search】Fahlman, Scott E and Lebiere, Christian. [The cascade correlation learning architecture](http://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture.pdf). In NIPS, pp. 524–532,
+1990.
+
 #### 2002
 - 【Architecture Search】【Evolutionary Algorithms】Stanley K O, Miikkulainen R. [Evolving neural networks through augmenting topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)[J]. Evolutionary computation, 2002, 10(2): 99-127.
 
@@ -108,11 +112,13 @@ Themes are as follow:
 - 【Hyperparameter Optimization】Luca Franceschi, Michele Donini, Paolo Frasconi, Massimiliano Pontil. [Forward and Reverse Gradient-Based Hyperparameter Optimization](https://arxiv.org/abs/1703.01785)[J]. arXiv preprint arXiv:1703.01785, 2017.
 - 【Hyperparameter Optimization】【Lipschitz Functions】Malherbe C, Vayatis N. [Global optimization of Lipschitz functions](https://arxiv.org/pdf/1703.02628.pdf)[J]. arXiv preprint arXiv:1703.02628, 2017.
 - 【Architecture Search】Suganuma, Masanori, Shirakawa, Shinichi, and Nagao, Tomoharu. [A genetic programming approach to designing convolutional neural network architectures](https://arxiv.org/abs/1704.00764). arXiv preprint arXiv:1704.00764, 2017.
+- 【Architecture Search】Negrinho, Renato and Gordon, Geoff. [Deeparchitect: Automatically designing and training deep architectures](https://arxiv.org/abs/1704.08792). arXiv preprint arXiv:1704.08792, 2017.
 - 【Hyperparameter Optimization】Gonzalo Diaz, Achille Fokoue, Giacomo Nannicini, Horst Samulowitz. [An effective algorithm for hyperparameter optimization of neural networks](https://arxiv.org/abs/1705.08520)[J]. arXiv preprint arXiv:1705.08520, 2017.
 - 【Automated Feature Engineering】【Expand Reduce】Lam H T, Thiebaut J M, Sinn M, et al. [One button machine for automating feature engineering in relational databases](https://arxiv.org/pdf/1706.00327.pdf)[J]. arXiv preprint arXiv:1706.00327, 2017.
 - 【Architecture Search】Hazan E, Klivans A, Yuan Y. [Hyperparameter Optimization: A Spectral Approach](https://arxiv.org/abs/1706.00764
 )[J]. arXiv preprint arXiv:1706.00764, 2017.
 - 【Hyperparameter Optimization】Jesse Dodge, Kevin Jamieson, Noah A. Smith. [Open Loop Hyperparameter Optimization and Determinantal Point Processes	Machine Learning](https://arxiv.org/abs/1706.01566)[J]. arXiv preprint arXiv:1706.01566, 2017.
+- 【Architecture Search】Huang, Furong, Ash, Jordan, Langford, John, and Schapire, Robert. [Learning deep resnet blocks sequentially using boosting theory](https://arxiv.org/abs/1706.04964). arXiv preprint arXiv:1706.04964, 2017
 - 【Architecture Search】Cai H, Chen T, Zhang W, et al. [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)[J].  arXiv preprint arXiv:1707.04873, 2017. (Cai et al. 2017)
 - 【Architecture Search】【Transfer Learning】Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012)[J]. arXiv preprint arXiv:1707.07012, 2017.
 - 【Architecture Search】【more efficient】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
