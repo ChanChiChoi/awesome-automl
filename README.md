@@ -72,7 +72,7 @@ Themes are as follow:
 - 【Hyperparameter Optimization】【Bayesian Optimization】Schilling N, Wistuba M, Drumond L, et al. [Joint model choice and hyperparameter optimization with factorized multilayer perceptrons](http://ieeexplore.ieee.org/abstract/document/7372120/)[C]//Tools with Artificial Intelligence (ICTAI), 2015 IEEE 27th International Conference on. IEEE, 2015: 72-79.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Wistuba M, Schilling N, Schmidt-Thieme L. [Hyperparameter search space pruning–a new component for sequential model-based hyperparameter optimization](https://dl.acm.org/citation.cfm?id=2991491)[C]//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2015: 104-119.
 - 【Hyperparameter Optimization】【Bayesian Optimization】Schilling N, Wistuba M, Drumond L, et al. [Hyperparameter optimization with factorized multilayer perceptrons](https://link.springer.com/chapter/10.1007/978-3-319-23525-7_6)[C]//Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, Cham, 2015: 87-103.
-- 【Hyperparameter Optimization】【Bayesian Optimization】Feurer M, Klein A, Eggensperger K, et al. [Efficient and robust automated machine learning](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)[C]//Advances in Neural Information Processing Systems. 2015: 2962-2970.
+- 【Hyperparameter Optimization】【Bayesian Optimization】【more efficient】Feurer M, Klein A, Eggensperger K, et al. [Efficient and robust automated machine learning](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)[C]//Advances in Neural Information Processing Systems. 2015: 2962-2970.
 - 【Frameworks】Thakur A, Krohn-Grimberghe A.[AutoCompete: A Framework for Machine Learning Competition](https://arxiv.org/pdf/1507.02188.pdf)[J]. arXiv preprint arXiv:1507.02188, 2015.
 - 【Automated Feature Engineering】【Expand Reduce】Kanter J M, Veeramachaneni K. [Deep feature synthesis: Towards automating data science endeavors](http://www.jmaxkanter.com/static/papers/DSAA_DSM_2015.pdf)[C]//Data Science and Advanced Analytics (DSAA), 2015. 36678 2015. IEEE International Conference on. IEEE, 2015: 1-10.
 
@@ -85,6 +85,7 @@ Themes are as follow:
 - 【Make it more efficient】Klein A, Falkner S, Bartels S, et al. [Fast bayesian optimization of machine learning hyperparameters on large datasets](http://proceedings.mlr.press/v54/klein17a.html)[J]. arXiv preprint arXiv:1605.07079, 2016.
 - 【Architecture Search】【Meta Learning】Li K, Malik J. [Learning to optimize](https://arxiv.org/pdf/1606.01885.pdf)[J]. arXiv preprint arXiv:1606.01885, 2016.
 - 【Architecture Search】Saxena S, Verbeek J. [Convolutional neural fabrics](https://arxiv.org/abs/1606.02492)[C]//Advances in Neural Information Processing Systems. 2016: 4053-4061.
+- 【Architecture Search】【Reinforcement Learning】Cortes, Corinna, Gonzalvo, Xavi, Kuznetsov, Vitaly, Mohri, Mehryar, and Yang, Scott. [Adanet: Adaptive structural learning of artificial neural networks](https://arxiv.org/abs/1607.01097). arXiv preprint arXiv:1607.01097, 2016.
 - 【Hyperparameter Optimization】Ilija Ilievski, Taimoor Akhtar, Jiashi Feng, Christine Annette Shoemaker. [Efficient Hyperparameter Optimization of Deep Learning Algorithms Using Deterministic RBF Surrogates](https://arxiv.org/abs/1607.08316)[J]. arXiv preprint arXiv:1607.08316, 2016.
 - 【Architecture Search】【Reinforcement Learning】Zoph B, Le Q V. [Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)[J]. arXiv preprint arXiv:1611.01578, 2016.
 - 【Architecture Search】Baker B, Gupta O, Naik N, et al. [Designing neural network architectures using reinforcement learning](https://arxiv.org/abs/1611.02167)[J]. arXiv preprint arXiv:1611.02167, 2016.
@@ -101,8 +102,9 @@ Themes are as follow:
 - 【Automated Feature Engineering】【Expand Reduce】Khurana U, Nargesian F, [Samulowitz H, et al. Automating Feature Engineering](http://workshops.inf.ed.ac.uk/nips2016-ai4datasci/papers/NIPS2016-AI4DataSci_paper_13.pdf)[J]. Transformation, 2016, 10(10): 10.
 
 #### 2017
-- 【Architecture Search】【Evolutionary Algorithms】Miikkulainen, Risto, Liang, Jason, Meyerson, Elliot,Rawal, Aditya, Fink, Dan, Francon, Olivier, Raju,Bala, Navruzyan, Arshak, Duffy, Nigel, and Hodjat,Babak. [Evolving deep neural networks](https://arxiv.org/abs/1703.00548). arXiv preprint arXiv:1703.00548, 2017
+- 【Architecture Search】【Evolutionary Algorithms】【more efficient】Miikkulainen, Risto, Liang, Jason, Meyerson, Elliot,Rawal, Aditya, Fink, Dan, Francon, Olivier, Raju,Bala, Navruzyan, Arshak, Duffy, Nigel, and Hodjat,Babak. [Evolving deep neural networks](https://arxiv.org/abs/1703.00548). arXiv preprint arXiv:1703.00548, 2017
 - 【Architecture Search】【Hyperparameter Optimization】【Evolutionary Algorithms】Real E, Moore S, Selle A, et al. [Large-scale evolution of image classifiers](https://arxiv.org/abs/1703.01041)[J]. arXiv preprint arXiv:1703.01041, 2017.
+- 【Architecture Search】【Evolutionary Algorithms】Xie, Lingxi and Yuille, Alan. [Genetic cnn](https://arxiv.org/abs/1703.01513). arXiv preprint arXiv:1703.01513, 2017.
 - 【Hyperparameter Optimization】Luca Franceschi, Michele Donini, Paolo Frasconi, Massimiliano Pontil. [Forward and Reverse Gradient-Based Hyperparameter Optimization](https://arxiv.org/abs/1703.01785)[J]. arXiv preprint arXiv:1703.01785, 2017.
 - 【Hyperparameter Optimization】【Lipschitz Functions】Malherbe C, Vayatis N. [Global optimization of Lipschitz functions](https://arxiv.org/pdf/1703.02628.pdf)[J]. arXiv preprint arXiv:1703.02628, 2017.
 - 【Architecture Search】Suganuma, Masanori, Shirakawa, Shinichi, and Nagao, Tomoharu. [A genetic programming approach to designing convolutional neural network architectures](https://arxiv.org/abs/1704.00764). arXiv preprint arXiv:1704.00764, 2017.
@@ -113,7 +115,7 @@ Themes are as follow:
 - 【Hyperparameter Optimization】Jesse Dodge, Kevin Jamieson, Noah A. Smith. [Open Loop Hyperparameter Optimization and Determinantal Point Processes	Machine Learning](https://arxiv.org/abs/1706.01566)[J]. arXiv preprint arXiv:1706.01566, 2017.
 - 【Architecture Search】Cai H, Chen T, Zhang W, et al. [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)[J].  arXiv preprint arXiv:1707.04873, 2017. (Cai et al. 2017)
 - 【Architecture Search】【Transfer Learning】Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012)[J]. arXiv preprint arXiv:1707.07012, 2017.
-- 【Architecture Search】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
+- 【Architecture Search】【more efficient】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
 - 【Architecture Search】【reinforcement learning】Zhong, Zhao, Yan, Junjie, and Liu, Cheng-Lin. [Practical network blocks design with q-learning](https://arxiv.org/abs/1708.05552). arXiv preprint arXiv:1708.05552, 2017.
 - 【Architecture Search】【reinforcement learning】Bello I, Zoph B, Vasudevan V, et al. [Neural optimizer search with reinforcement learning](https://arxiv.org/abs/1709.07417)[J]. arXiv preprint arXiv:1709.07417, 2017.
 - 【Automated Feature Engineering】【Reinforcement Learning】Khurana U, Samulowitz H, Turaga D. [Feature Engineering for Predictive Modeling using Reinforcement Learning](https://arxiv.org/pdf/1709.07150.pdf)[J]. arXiv preprint arXiv:1709.07150, 2017.
@@ -122,7 +124,7 @@ Themes are as follow:
 - 【Architecture Search】【Evolutionary Algorithms】Liu, Hanxiao, Simonyan, Karen, Vinyals, Oriol, Fernando,Chrisantha, and Kavukcuoglu, Koray. [Hierarchical representations for efficient architecture search](https://arxiv.org/abs/1711.00436). arXiv preprint arXiv:1711.00436, 2017b.
 - 【Architecture Search】【Local Search】Elsken T, Metzen J H, Hutter F. [Simple and efficient architecture search for convolutional neural networks](https://arxiv.org/abs/1711.04528)[J]. arXiv preprint arXiv:1711.04528, 2017.
 - 【Architecture Search】Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)[J]. arXiv preprint arXiv:1711.09846, 2017.
-- 【Architecture Search】Liu C, Zoph B, Shlens J, et al. [Progressive neural architecture search](https://arxiv.org/abs/1712.00559)[J]. arXiv preprint arXiv:1712.00559, 2017.
+- 【Architecture Search】【more efficient】Liu C, Zoph B, Shlens J, et al. [Progressive neural architecture search](https://arxiv.org/abs/1712.00559)[J]. arXiv preprint arXiv:1712.00559, 2017.
 - 【Architecture Search】Wistuba M. [Finding Competitive Network Architectures Within a Day Using UCT](https://arxiv.org/abs/1712.07420)[J]. arXiv preprint arXiv:1712.07420, 2017.
 - 【Hyperparameter Optimization】【Particle Swarm Optimization】Lorenzo P R, Nalepa J, Kawulok M, et al. [Particle swarm optimization for hyper-parameter selection in deep neural networks](https://dl.acm.org/citation.cfm?id=3071208)[C]//Proceedings of the Genetic and Evolutionary Computation Conference. ACM, 2017: 481-488.
 - 【Frameworks】Swearingen T, Drevo W, Cyphers B, et al. [ATM: A distributed, collaborative, scalable system for automated machine learning](https://cyphe.rs/static/atm.pdf)[C]//IEEE International Conference on Big Data. 2017.
@@ -136,12 +138,12 @@ Themes are as follow:
 - 【Architecture Search】Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - 【Hyperparameter Optimization】Lorraine, Jonathan, and David Duvenaud. [Stochastic Hyperparameter Optimization through Hypernetworks](https://arxiv.org/abs/1802.09419) arXiv preprint arXiv:1802.09419 (2018).
 - 【Hyperparameter Optimization】【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autostacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
-- 【Make it more efficient】Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
+- 【more efficient】Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
 - 【Architecture Search】Kamath P, Singh A, Dutta D. [Neural Architecture Construction using EnvelopeNets](https://arxiv.org/abs/1803.06744)[J]. arXiv preprint arXiv:1803.06744, 2018.
 - 【Hyperparameter Optimization】Cui, Henggang, Gregory R. Ganger, and Phillip B. Gibbons. [MLtuner: System Support for Automatic Machine Learning Tuning](https://arxiv.org/abs/1803.07445) arXiv preprint arXiv:1803.07445 (2018).
-- 【Make it more efficient】Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
+- 【more efficient】Bennani-Smires K, Musat C, Hossmann A, et al. [GitGraph-from Computational Subgraphs to Smaller Architecture Search Spaces](https://openreview.net/pdf?id=rkiO1_1Pz)[J]. 2018.
 - 【Multi-Objective NAS】Dong J D, Cheng A C, Juan D C, et al. [PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures](https://openreview.net/pdf?id=B1NT3TAIM)[J]. 2018.
-- 【Miscellaneous】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
+- 【more efficient】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
 - 【Architecture Search】Huang, Siyu, et al. [GNAS: A Greedy Neural Architecture Search Method for Multi-Attribute Learning.](https://arxiv.org/abs/1804.06964) arXiv preprint arXiv:1804.06964 (2018).
 
 ---
