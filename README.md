@@ -139,8 +139,8 @@ Themes are as follow:
 - 【Miscellaneous】Martin Wistuba, et al. [Automatic Frankensteining: Creating Complex Ensembles Autonomously](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
 
 #### 2018
-- 【Architecture Search】Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
-- 【Architecture Search】【Reinforcement Learning】Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
+-[2] 【Architecture Search】Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
+-[4] 【Architecture Search】【Reinforcement Learning】Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
 - 【Architecture Search】Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - 【Hyperparameter Optimization】Lorraine, Jonathan, and David Duvenaud. [Stochastic Hyperparameter Optimization through Hypernetworks](https://arxiv.org/abs/1802.09419) arXiv preprint arXiv:1802.09419 (2018).
 - 【Hyperparameter Optimization】【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autostacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
