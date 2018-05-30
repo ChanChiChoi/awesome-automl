@@ -24,6 +24,8 @@ Themes are as follow:
 - 6.【Meta Learning】;    
 - 7.【Miscellaneous】  
 
+ps:The theme is a bit confusing and I will modify it later.
+
 ---
 ## Papers
 
@@ -139,7 +141,7 @@ Themes are as follow:
 - 【Miscellaneous】Martin Wistuba, et al. [Automatic Frankensteining: Creating Complex Ensembles Autonomously](http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.83)
 
 #### 2018
-- 【Architecture Search】Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
+- 【Architecture Search】【Evolutionary Algorithms】Real E, Aggarwal A, Huang Y, et al. [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)[J]. arXiv preprint arXiv:1802.01548, 2018.
 - 【Architecture Search】【Reinforcement Learning】Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
 - 【Architecture Search】Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - 【Hyperparameter Optimization】Lorraine, Jonathan, and David Duvenaud. [Stochastic Hyperparameter Optimization through Hypernetworks](https://arxiv.org/abs/1802.09419) arXiv preprint arXiv:1802.09419 (2018).
