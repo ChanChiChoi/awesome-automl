@@ -30,8 +30,7 @@ ps:The theme is a bit confusing and I will modify it later.
 ## Papers
 
 #### 1990
-- 【Architecture Search】Fahlman, Scott E and Lebiere, Christian. [The cascade correlation learning architecture](http://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture.pdf). In NIPS, pp. 524–532,
-1990.
+- 【Architecture Search】Fahlman, Scott E and Lebiere, Christian. [The cascade correlation learning architecture](http://papers.nips.cc/paper/207-the-cascade-correlation-learning-architecture.pdf). In NIPS, pp. 524–532,1990.
 
 #### 2002
 - 【Architecture Search】【Evolutionary Algorithms】Stanley K O, Miikkulainen R. [Evolving neural networks through augmenting topologies](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.5457&rep=rep1&type=pdf)[J]. Evolutionary computation, 2002, 10(2): 99-127.
