@@ -113,6 +113,8 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【Architecture Search】【Evolutionary Algorithms】Xie, Lingxi and Yuille, Alan. [Genetic cnn](https://arxiv.org/abs/1703.01513). arXiv preprint arXiv:1703.01513, 2017.
 - 【Hyperparameter Optimization】Luca Franceschi, Michele Donini, Paolo Frasconi, Massimiliano Pontil. [Forward and Reverse Gradient-Based Hyperparameter Optimization](https://arxiv.org/abs/1703.01785)[J]. arXiv preprint arXiv:1703.01785, 2017.
 - 【Hyperparameter Optimization】【Lipschitz Functions】Malherbe C, Vayatis N. [Global optimization of Lipschitz functions](https://arxiv.org/pdf/1703.02628.pdf)[J]. arXiv preprint arXiv:1703.02628, 2017.
+- 【Hyperparameter Optimization】【Meta Learning】Ben Goertzel, Nil Geisweiller, Chris Poulin. [Metalearning for Feature Selection
+](https://arxiv.org/abs/1703.06990). arXiv preprint arXiv:1703.06990, 2017.
 - 【Architecture Search】Suganuma, Masanori, Shirakawa, Shinichi, and Nagao, Tomoharu. [A genetic programming approach to designing convolutional neural network architectures](https://arxiv.org/abs/1704.00764). arXiv preprint arXiv:1704.00764, 2017.
 - 【Architecture Search】Negrinho, Renato and Gordon, Geoff. [Deeparchitect: Automatically designing and training deep architectures](https://arxiv.org/abs/1704.08792). arXiv preprint arXiv:1704.08792, 2017.
 - 【Hyperparameter Optimization】Gonzalo Diaz, Achille Fokoue, Giacomo Nannicini, Horst Samulowitz. [An effective algorithm for hyperparameter optimization of neural networks](https://arxiv.org/abs/1705.08520)[J]. arXiv preprint arXiv:1705.08520, 2017.
@@ -121,7 +123,8 @@ ps:The theme is a bit confusing and I will modify it later.
 )[J]. arXiv preprint arXiv:1706.00764, 2017.
 - 【Hyperparameter Optimization】Jesse Dodge, Kevin Jamieson, Noah A. Smith. [Open Loop Hyperparameter Optimization and Determinantal Point Processes	Machine Learning](https://arxiv.org/abs/1706.01566)[J]. arXiv preprint arXiv:1706.01566, 2017.
 - 【Architecture Search】Huang, Furong, Ash, Jordan, Langford, John, and Schapire, Robert. [Learning deep resnet blocks sequentially using boosting theory](https://arxiv.org/abs/1706.04964). arXiv preprint arXiv:1706.04964, 2017
-- 【Architecture Search】Cai H, Chen T, Zhang W, et al. [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)[J].  arXiv preprint arXiv:1707.04873, 2017. (Cai et al. 2017)
+- 【Hyperparameter Optimization】【Meta Learning】Fábio Pinto, Vítor Cerqueira, Carlos Soares, João Mendes-Moreira. [autoBagging: Learning to Rank Bagging Workflows with Metalearning](https://arxiv.org/abs/1706.09367)[J].  arXiv preprint arXiv:1706.09367, 2017.
+- 【Architecture Search】Cai H, Chen T, Zhang W, et al. [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)[J].  arXiv preprint arXiv:1707.04873, 2017. 
 - 【Architecture Search】【Transfer Learning】Zoph B, Vasudevan V, Shlens J, et al. [Learning transferable architectures for scalable image recognition](https://arxiv.org/abs/1707.07012)[J]. arXiv preprint arXiv:1707.07012, 2017.
 - 【Architecture Search】【more efficient】Brock A, Lim T, Ritchie J M, et al. [SMASH: one-shot model architecture search through hypernetworks](https://arxiv.org/abs/1708.05344)[J]. arXiv preprint arXiv:1708.05344, 2017.
 - 【Architecture Search】【reinforcement learning】Zhong, Zhao, Yan, Junjie, and Liu, Cheng-Lin. [Practical network blocks design with q-learning](https://arxiv.org/abs/1708.05552). arXiv preprint arXiv:1708.05552, 2017.
