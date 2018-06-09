@@ -197,7 +197,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【python】[Optunity](https://github.com/claesenm/optunity)
 - 【python】[ATM](https://github.com/HDI-Project/ATM)
 - 【python】[Cloud AutoML](https://cloud.google.com/automl/)
-- 【python】[H2O](https://www.h2o.ai/)
+- 【python】[H2O-offical website](https://www.h2o.ai/);[H2O-github](https://github.com/h2oai)
 - 【python】[DataRobot](https://www.datarobot.com/)
 - 【python】[MLJAR](https://mljar.com/)
 - 【python】[MateLabs](http://matelabs.in/)
