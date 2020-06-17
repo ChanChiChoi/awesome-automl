@@ -1,5 +1,5 @@
 # awesome-automl   
-collecting related resources of automated machine learning here. some links were from below,"automl","meta learning":
+collecting related resources of automated machine learning here. some links were from below,keyword:"automl"
 - [][DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
 - [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
@@ -26,6 +26,7 @@ collecting related resources of automated machine learning here. some links were
 - [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
 
 --------------------------------
+keyword:"meta learning"
 - [][floodsung/Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers)
 - [][sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 - [][dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning)
@@ -223,11 +224,20 @@ ps:The theme is a bit confusing and I will modify it later.
 - [mlpapers/automl](https://github.com/mlpapers/automl)
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
 
-- [Featuretools](https://www.featuretools.com/): a good library for automatically engineering features from relational and transactional data
-- [auto-sklearn](http://automl.github.io/auto-sklearn/stable/): it's really a drop-in replacement for scikit-learn estimators.
-- [MLBox](http://mlbox.readthedocs.io/en/latest/): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
+- [Featuretools](https://github.com/FeatureLabs/featuretools): a good library for automatically engineering features from relational and transactional data
+- [auto-sklearn](https://github.com/automl/auto-sklearn): it's really a drop-in replacement for scikit-learn estimators.
+- [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
 - 【python】[Xcessive](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
-- 【python】[TPOT](https://github.com/rhiever/tpot): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
+- [ray](https://github.com/ray-project/ray)
+- [autokeras](https://github.com/keras-team/autokeras)
+- [nni](https://github.com/microsoft/nni)
+- [adanet](https://github.com/tensorflow/adanet)
+- [mindsdb](https://github.com/mindsdb/mindsdb)
+- [autogluon](https://github.com/awslabs/autogluon)
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
+- [automl-gs](https://github.com/minimaxir/automl-gs)
+- [advisor](https://github.com/tobegit3hub/advisor)
+- 【python】[TPOT](https://github.com/EpistasisLab/tpot): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
 - 【python】[Advisor](https://github.com/tobegit3hub/advisor)
 - 【java】[Auto-WEKA](https://github.com/automl/autoweka)
 - 【python】[Hyperopt](https://github.com/hyperopt/hyperopt)
@@ -246,3 +256,6 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【python】[DataRobot](https://www.datarobot.com/)
 - 【python】[MLJAR](https://mljar.com/)
 - 【python】[MateLabs](http://matelabs.in/)
+- [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment)
+- [darts](https://github.com/quark0/darts)
+- [devol](https://github.com/joeddav/devol)
