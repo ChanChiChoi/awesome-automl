@@ -14,7 +14,7 @@ collecting related resources of automated machine learning here. some links were
 - [][anonymone/Neural-Architecture-Search](https://github.com/anonymone/Neural-Architecture-Search)
 - [][ssheikholeslami/automl-resources](https://github.com/ssheikholeslami/automl-resources)
 - [][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
-- [][JaimeTang/AutoML)](https://github.com/JaimeTang/AutoML)
+- [][JaimeTang/AutoML](https://github.com/JaimeTang/AutoML)
 - [][Yipeng-Sun/AutoML-NAS-papers](https://github.com/Yipeng-Sun/AutoML-NAS-papers)
 - [][Yejining/Survey](https://github.com/Yejining/Survey)
 - [][lidderupk/automl-intro](https://github.com/lidderupk/automl-intro)
