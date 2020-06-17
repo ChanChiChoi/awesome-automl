@@ -1,8 +1,11 @@
 # awesome-automl   
 collecting related resources of automated machine learning here. some links were from below:
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
-- [][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
+- [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [x][Algorithm Configuration Literature](http://aclib.net/acbib/)
+- [][windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
+- [][DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey)
+- [][D-X-Y/Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),   
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
