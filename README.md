@@ -1,11 +1,30 @@
 # awesome-automl   
 collecting related resources of automated machine learning here. some links were from below:
+- [][DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
 - [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [x][Algorithm Configuration Literature](http://aclib.net/acbib/)
 - [][windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
 - [][DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey)
 - [][D-X-Y/Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
+- [][D-X-Y/AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects)
+- [][HuaizhengZhang/Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
+- [][dragen1860/awesome-AutoML](https://github.com/dragen1860/awesome-AutoML)
+- [][lihanghang/Deep-learning-And-Paper](https://github.com/lihanghang/Deep-learning-And-Paper)
+- [][anonymone/Neural-Architecture-Search](https://github.com/anonymone/Neural-Architecture-Search)
+- [][ssheikholeslami/automl-resources](https://github.com/ssheikholeslami/automl-resources)
+- [][guan-yuan/awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+- [][JaimeTang/AutoML)](https://github.com/JaimeTang/AutoML)
+- [][Yipeng-Sun/AutoML-NAS-papers](https://github.com/Yipeng-Sun/AutoML-NAS-papers)
+- [][Yejining/Survey](https://github.com/Yejining/Survey)
+- [][lidderupk/automl-intro](https://github.com/lidderupk/automl-intro)
+- [][oskar-j/awesome-auto-ml](https://github.com/oskar-j/awesome-auto-ml)
+- [][BruceQFWang/Meta-learning-Paper-List](https://github.com/BruceQFWang/Meta-learning-Paper-List)
+- [][YIWEI-CHEN/awesome-automated-machine-learning](https://github.com/YIWEI-CHEN/awesome-automated-machine-learning)
+- [][pbiecek/automl_resources](https://github.com/pbiecek/automl_resources)
+- [][jphall663/automl_resources](https://github.com/jphall663/automl_resources)
+- [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
+
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),   
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
@@ -180,6 +199,9 @@ ps:The theme is a bit confusing and I will modify it later.
 
 ---
 ## Libraries
+
+- [mlpapers/automl](https://github.com/mlpapers/automl)
+- [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
 
 - [Featuretools](https://www.featuretools.com/): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](http://automl.github.io/auto-sklearn/stable/): it's really a drop-in replacement for scikit-learn estimators.
