@@ -1,5 +1,5 @@
 # awesome-automl   
-collecting related resources of automated machine learning here. some links were from below:
+collecting related resources of automated machine learning here. some links were from below,"automl","meta learning":
 - [][DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
 - [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
@@ -25,6 +25,7 @@ collecting related resources of automated machine learning here. some links were
 - [][jphall663/automl_resources](https://github.com/jphall663/automl_resources)
 - [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
 
+--------------------------------
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),   
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
