@@ -26,6 +26,25 @@ collecting related resources of automated machine learning here. some links were
 - [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
 
 --------------------------------
+- [][floodsung/Meta-Learning-Papers](https://github.com/floodsung/Meta-Learning-Papers)
+- [][sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+- [][dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning)
+- [][oneHuster/Meta-Learning-Papers](https://github.com/oneHuster/Meta-Learning-Papers)
+- [][csyanbin/Few-shot-Meta-learning-papers](https://github.com/csyanbin/Few-shot-Meta-learning-papers)
+- [][ha-lins/MetaLearning4NLP-Papers](https://github.com/ha-lins/MetaLearning4NLP-Papers)
+- [][johnnyasd12/awesome-few-shot-meta-learning](https://github.com/johnnyasd12/awesome-few-shot-meta-learning)
+- [][jarvisWang0903/Meta-Learning-PaperReading](https://github.com/jarvisWang0903/Meta-Learning-PaperReading)
+- [][Deepest-Project/meta-learning-study](https://github.com/Deepest-Project/meta-learning-study)
+- [][metarl/awesome-metarl](https://github.com/metarl/awesome-metarl)
+- [][BruceQFWang/Meta-learning-Paper-List](https://github.com/BruceQFWang/Meta-learning-Paper-List)
+- [][rootlu/MetaLearningPapers](https://github.com/rootlu/MetaLearningPapers)
+- [][Meta-Learning/Awesome-Meta-Learning](https://github.com/Meta-Learning/Awesome-Meta-Learning)
+- [][anthonysicilia/MetaLearningPapers](https://github.com/anthonysicilia/MetaLearningPapers)
+- [][dragen1860/Meta-Learning-Papers)](https://github.com/dragen1860/Meta-Learning-Papers)
+- [][sorrowyn/awesome-metarl-2](https://github.com/sorrowyn/awesome-metarl-2)
+- [][Alro10/meta-learning-resources](https://github.com/Alro10/meta-learning-resources)
+- [][clxiao/Meta-Learning-Papers](https://github.com/clxiao/Meta-Learning-Papers)
+- [][adityagupte95/Meta-Learning-Papers](https://github.com/adityagupte95/Meta-Learning-Papers)
 
 you can take part in [automl Challenge](http://automl.chalearn.org/),   
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
