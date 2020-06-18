@@ -249,9 +249,12 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【python】[Advisor](https://github.com/tobegit3hub/advisor)
 - 【java】[Auto-WEKA](https://github.com/automl/autoweka)
 - 【python】[Hyperopt](https://github.com/hyperopt/hyperopt)
-- 【python】[Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
+- 【python】[Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn):Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn.
 - 【python】[SigOpt](https://sigopt.com/)
-- 【python】[SMAC3](https://github.com/automl/SMAC3)
+- 【python】[SMAC3](https://github.com/automl/SMAC3):SMAC is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms across a set of instances. This also includes hyperparameter optimization of ML algorithms. The main core consists of Bayesian Optimization in combination with a aggressive racing mechanism to efficiently decide which of two configuration performs better
+- [Spearmint](https://github.com/HIPS/Spearmint):Spearmint is a software package to perform Bayesian optimization. The Software is designed to automatically run experiments (thus the code name spearmint) in a manner that iteratively adjusts a number of parameters so as to minimize some objective in as few runs as possible
+- [MOE](https://github.com/Yelp/MOE):MOE (Metric Optimization Engine) is an efficient way to optimize a system's parameters, when evaluating parameters is time-consuming or expensive
+- [hyperband](https://github.com/zygmuntz/hyperband)
 - 【python】[RoBO](https://github.com/automl/RoBO)
 - 【python】[BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
 - 【python】[Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize)
@@ -261,7 +264,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【python】[Cloud AutoML](https://cloud.google.com/automl/)
 - 【python】[H2O-offical website](https://www.h2o.ai/);  [H2O-github](https://github.com/h2oai)
 - 【python】[DataRobot](https://www.datarobot.com/)
-- 【python】[MLJAR](https://mljar.com/)
+- 【python】[MLJAR](https://mljar.com/):An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 - 【python】[MateLabs](http://matelabs.in/)
 - [Angle-ml/automl](https://github.com/Angel-ML/automl)
 - [ackeras](https://github.com/accurat/ackeras)
@@ -281,7 +284,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [crawles/automl_service](https://github.com/crawles/automl_service)
 - [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment)
 - [DARTS](https://github.com/quark0/darts)
-- [devol](https://github.com/joeddav/devol)
+- [DEvol](https://github.com/joeddav/devol):DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.:DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.
 - 【pytho】[recipe](https://github.com/laic-ufmg/Recipe)
 - [glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md)
 - [automlr](https://github.com/mb706/automlr)
@@ -308,14 +311,27 @@ ps:The theme is a bit confusing and I will modify it later.
 - [skplumber](https://github.com/epeters3/skplumber)
 - [predictionio-template-automl](https://github.com/takezoe/predictionio-template-automl)
 - 【python】[Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
+- [keras-tuner](https://github.com/keras-team/keras-tuner):Hyperparameter tuning for humans
+- [pytorch-meta](https://github.com/tristandeleu/pytorch-meta):A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch. Torchmeta contains popular meta-learning benchmarks, fully compatible with both torchvision and PyTorch's DataLoader
+- [learn2learn](https://github.com/learnables/learn2learn):PyTorch Meta-learning Library for Researchers
+- [Dragonfly](https://github.com/dragonfly/dragonfly):An open source python library for scalable Bayesian optimisation.
+- [Auto-Pytorch](https://github.com/automl/Auto-PyTorch):Automatic architecture search and hyperparameter optimization for PyTorch
+- [katib](https://github.com/kubeflow/katib):Katib is a Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search. Katib supports a number of ML frameworks, including TensorFlow, Apache MXNet, PyTorch, XGBoost, and others
+- [ludwig](https://github.com/uber/ludwig):Ludwig is a toolbox built on top of TensorFlow that allows users to train and test deep learning models without the need to write code
 - [bartekPog/Automl-library](https://github.com/BartekPog/AutoML-Library)
 - [distributed-SMAC3](https://github.com/tqichun/distributed-SMAC3)
 - [lazyML](https://github.com/linxihui/lazyML)
 - [xgbtune](https://github.com/MainRo/xgbtune)
+- [hypertunity](https://github.com/gdikov/hypertunity):A toolset for black-box hyperparameter optimisation.
+- [HPOlib2](https://github.com/automl/HPOlib2):HPOlib2 is a library for hyperparameter optimization and black box optimization benchmarks.
 - 【R】[SmartML](https://github.com/DataSystemsGroupUT/SmartML)
+- [rembo](https://github.com/ziyuw/rembo):Bayesian optimization in high-dimensions via random embedding.
+- [optuna](https://github.com/optuna/optuna):Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters
+- [RoBO](https://github.com/automl/RoBO):RoBO: a Robust Bayesian Optimization framework
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684)
 - [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf)
 - [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers)
+- [paper][ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf)
 
 ### Distributed Frameworks
 - [scala][MLBase](http://www.mlbase.org/)
@@ -326,6 +342,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [ATMSeer](https://github.com/HDI-Project/ATMSeer)
 - [D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML)
 - [Databricks](https://databricks.com/product/automl-on-databricks#resource-link)
+- [HpBandSter](https://github.com/automl/HpBandSter):a distributed Hyperband implementation on Steroids
 
 
 
