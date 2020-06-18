@@ -223,7 +223,6 @@ ps:The theme is a bit confusing and I will modify it later.
 
 - [mlpapers/automl](https://github.com/mlpapers/automl)
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
-
 - [Featuretools](https://github.com/FeatureLabs/featuretools): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](https://github.com/automl/auto-sklearn): it's really a drop-in replacement for scikit-learn estimators.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
