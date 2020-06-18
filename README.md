@@ -226,9 +226,9 @@ ps:The theme is a bit confusing and I will modify it later.
 - [Featuretools](https://github.com/FeatureLabs/featuretools): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](https://github.com/automl/auto-sklearn): it's really a drop-in replacement for scikit-learn estimators.
 - 【python】[Xcessive](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
-- [ray](https://github.com/ray-project/ray)
-- [AutoKeras](https://github.com/keras-team/autokeras)
-- [microsoft/nni](https://github.com/microsoft/nni)
+- [ray](https://github.com/ray-project/ray):A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library
+- [AutoKeras](https://github.com/keras-team/autokeras):An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible for everyone
+- [microsoft/nni](https://github.com/microsoft/nni):An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
 - [adanet](https://github.com/tensorflow/adanet)
 - [mindsdb](https://github.com/mindsdb/mindsdb)
 - [autogluon](https://github.com/awslabs/autogluon)
