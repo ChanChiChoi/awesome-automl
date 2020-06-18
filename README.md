@@ -191,7 +191,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【Architecture Search】【Reinforcement Learning】Pham H, Guan M Y, Zoph B, et al. [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)[J]. arXiv preprint arXiv:1802.03268, 2018.
 - 【Architecture Search】Kandasamy K, Neiswanger W, Schneider J, et al. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)[J]. arXiv preprint arXiv:1802.07191, 2018.
 - 【Hyperparameter Optimization】Lorraine, Jonathan, and David Duvenaud. [Stochastic Hyperparameter Optimization through Hypernetworks](https://arxiv.org/abs/1802.09419) arXiv preprint arXiv:1802.09419 (2018).
-- 【Hyperparameter Optimization】【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autostacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
+- 【Hyperparameter Optimization】【Evolutionary Algorithms】Chen B, Wu H, Mo W, et al. [Autopythonstacker: A Compositional Evolutionary Learning System](https://arxiv.org/pdf/1803.00684.pdf)[J]. arXiv preprint arXiv:1803.00684, 2018.
 - 【more efficient】Wong C, Houlsby N, Lu Y, et al. [Transfer Automatic Machine Learning](https://arxiv.org/abs/1803.02780)[J]. arXiv preprint arXiv:1803.02780, 2018.
 - 【Architecture Search】Kamath P, Singh A, Dutta D. [Neural Architecture Construction using EnvelopeNets](https://arxiv.org/abs/1803.06744)[J]. arXiv preprint arXiv:1803.06744, 2018.
 - 【Hyperparameter Optimization】Cui, Henggang, Gregory R. Ganger, and Phillip B. Gibbons. [MLtuner: System Support for Automatic Machine Learning Tuning](https://arxiv.org/abs/1803.07445) arXiv preprint arXiv:1803.07445 (2018).
@@ -225,15 +225,13 @@ ps:The theme is a bit confusing and I will modify it later.
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
 - [Featuretools](https://github.com/FeatureLabs/featuretools): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](https://github.com/automl/auto-sklearn): it's really a drop-in replacement for scikit-learn estimators.
-- [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
 - 【python】[Xcessive](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
 - [ray](https://github.com/ray-project/ray)
-- [autokeras](https://github.com/keras-team/autokeras)
-- [nni](https://github.com/microsoft/nni)
+- [AutoKeras](https://github.com/keras-team/autokeras)
+- [microsoft/nni](https://github.com/microsoft/nni)
 - [adanet](https://github.com/tensorflow/adanet)
 - [mindsdb](https://github.com/mindsdb/mindsdb)
 - [autogluon](https://github.com/awslabs/autogluon)
-- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
 - [automl-gs](https://github.com/minimaxir/automl-gs)
 - [advisor](https://github.com/tobegit3hub/advisor)
 - [AlphaPy](https://github.com/ScottfreeLLC/AlphaPy)
@@ -260,7 +258,6 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【python】[HyperBand](https://github.com/zygmuntz/hyperband)
 - 【cpp】[BayesOpt](https://github.com/rmcantin/bayesopt)
 - 【python】[Optunity](https://github.com/claesenm/optunity)
-- 【python】[ATM](https://github.com/HDI-Project/ATM)
 - 【python】[Cloud AutoML](https://cloud.google.com/automl/)
 - 【python】[H2O-offical website](https://www.h2o.ai/);  [H2O-github](https://github.com/h2oai)
 - 【python】[DataRobot](https://www.datarobot.com/)
@@ -283,10 +280,9 @@ ps:The theme is a bit confusing and I will modify it later.
 - [maggy](https://github.com/logicalclocks/maggy)
 - [crawles/automl_service](https://github.com/crawles/automl_service)
 - [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment)
-- [darts](https://github.com/quark0/darts)
+- [DARTS](https://github.com/quark0/darts)
 - [devol](https://github.com/joeddav/devol)
-- [rafiki](https://github.com/nginyc/rafiki)
-- [recipe](https://github.com/laic-ufmg/Recipe)
+- 【pytho】[recipe](https://github.com/laic-ufmg/Recipe)
 - [glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md)
 - [automlr](https://github.com/mb706/automlr)
 - [auto_ts](https://github.com/AutoViML/Auto_TS)
@@ -311,10 +307,27 @@ ps:The theme is a bit confusing and I will modify it later.
 - [modgen](https://github.com/SaltWaterStudio/modgen)
 - [skplumber](https://github.com/epeters3/skplumber)
 - [predictionio-template-automl](https://github.com/takezoe/predictionio-template-automl)
+- 【python】[Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
 - [bartekPog/Automl-library](https://github.com/BartekPog/AutoML-Library)
 - [distributed-SMAC3](https://github.com/tqichun/distributed-SMAC3)
 - [lazyML](https://github.com/linxihui/lazyML)
 - [xgbtune](https://github.com/MainRo/xgbtune)
+- 【R】[SmartML](https://github.com/DataSystemsGroupUT/SmartML)
+- [paper][AutoStacker](https://arxiv.org/abs/1803.00684)
+- [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf)
+- [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers)
+
+### Distributed Frameworks
+- [scala][MLBase](http://www.mlbase.org/)
+- 【python】[ATM](https://github.com/HDI-Project/ATM)
+- [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
+- [rafiki](https://github.com/nginyc/rafiki)
+- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
+- [ATMSeer](https://github.com/HDI-Project/ATMSeer)
+- [D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML)
+- [Databricks](https://databricks.com/product/automl-on-databricks#resource-link)
+
+
 
 ## Projects
 - [once-for-all](https://github.com/mit-han-lab/once-for-all)
@@ -324,26 +337,31 @@ ps:The theme is a bit confusing and I will modify it later.
 - [gdayf-core](https://github.com/e2its/gdayf-core)
 - [AutoViz](https://github.com/AutoViML/AutoViz)
 - [autskearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf)
-- [auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
 - [autoclint](https://github.com/kakaobrain/autoclint)
 - [opentpod](https://github.com/cmusatyalab/OpenTPOD)
 - [autpgbt-alt](https://github.com/pfnet-research/autogbt-alt)
 - [efficientnas](https://github.com/arberzela/EfficientNAS)
 - [pymfe](https://github.com/ealcobaca/pymfe)
 - [autospeech](https://github.com/TAMU-VITA/AutoSpeech)
-- [ailibs](https://github.com/fmohr/AILibs)
+- [java][AILibs](https://github.com/fmohr/AILibs)
 - [cardea](https://github.com/DAI-Lab/Cardea)
 - [autokaggle](https://github.com/datamllab/autokaggle)
 - [greenguard](https://github.com/signals-dev/GreenGuard)
 - [automl_server](https://github.com/MaximilianJohannesObpacher/automl_server)
 - [soln-ml](https://github.com/thomas-young-2013/soln-ml)
 - [auto-surprise](https://github.com/BeelGroup/Auto-Surprise)
+- [ENAS](https://github.com/melodyguan/enas)
+- [NAO](https://github.com/renqianluo/NAO)
 - [automlc](https://github.com/laic-ufmg/automlc)
 - [automl-streams](https://github.com/AlexImb/automl-streams)
 - [hp-optimization](https://github.com/knowledge-learning/hp-optimization)
 - [magnusax/automl](https://github.com/magnusax/AutoML)
 - [ALEX_AutoML](https://github.com/dstreamsai/AutoML)
 - [nitishkthakur/automlib](https://github.com/nitishkthakur/automlib)
+- [iSmartML](https://github.com/DataSystemsGroupUT/ismartml)
+- [Oboe](https://github.com/udellgroup/oboe)
+- [AutoNet](https://github.com/automl/Auto-PyTorch)
+
 - [Dino](https://github.com/plabig/Dino)
 
 ## benchmark
