@@ -47,7 +47,7 @@ keyword:"meta learning"
 - [][clxiao/Meta-Learning-Papers](https://github.com/clxiao/Meta-Learning-Papers)
 - [][adityagupte95/Meta-Learning-Papers](https://github.com/adityagupte95/Meta-Learning-Papers)
 
-you can take part in [automl Challenge](http://automl.chalearn.org/),   
+you can take part in [automl Challenge](http://automl.chalearn.org/),[autodl Challenge](https://autodl.chalearn.org/)    
 &nbsp;&nbsp;  or find competitions in [kaggle](https://www.kaggle.com)    
 &nbsp;&nbsp;  or get search result from [reddit](https://www.reddit.com/search?q=automl), [bing](https://cn.bing.com/search?q=automated+machine+learning&FORM=BESBTB&ensearch=1), [quora](https://www.quora.com/search?q=automl)(search keyword should be "automatic machine learning","automl","meta learning","automated machine learning" and so on),     
 &nbsp;&nbsp;  or access the website [automl](http://www.ml4aad.org),   
