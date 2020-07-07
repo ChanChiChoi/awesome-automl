@@ -225,7 +225,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
 - [Featuretools](https://github.com/FeatureLabs/featuretools): a good library for automatically engineering features from relational and transactional data
 - [auto-sklearn](https://github.com/automl/auto-sklearn): it's really a drop-in replacement for scikit-learn estimators.
-- 【python】[Xcessive](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
+- [Xcessive](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
 - [ray](https://github.com/ray-project/ray):A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library
 - [AutoKeras](https://github.com/keras-team/autokeras):An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible for everyone
 - [microsoft/nni](https://github.com/microsoft/nni):An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
@@ -245,25 +245,25 @@ ps:The theme is a bit confusing and I will modify it later.
 - [databricks/automl-toolkit](https://github.com/databrickslabs/automl-toolkit):This package provides a number of different levels of API interaction, from the highest-level "default only" FamilyRunner to low-level APIs that allow for highly customizable workflows to be created for automated ML tuning and Inference
 - [autogbt](https://github.com/flytxtds/AutoGBT):AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [autobazaar](https://github.com/HDI-Project/AutoBazaar):AutoBazaar is an AutoML system created using The Machine Learning Bazaar, a research project and framework for building ML and AutoML systems by the Data To AI Lab at MIT.
-- 【python】[TPOT](https://github.com/EpistasisLab/tpot): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
-- 【java】[Auto-WEKA](https://github.com/automl/autoweka):Repository for Auto-WEKA, wich provides automatic selection of models and hyperparameters for WEKA
-- 【python】[Hyperopt](https://github.com/hyperopt/hyperopt):Distributed Asynchronous Hyperparameter Optimization in Python, for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
-- 【python】[Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn):Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn.
-- 【Commercial python】[SigOpt](https://sigopt.com/):SigOpt is a standardized, scalable, enterprise-grade optimization platform and API designed to unlock the potential of your modeling pipelines. This fully agnostic software solution accelerates, amplifies, and scales the model development process.
-- 【python】[SMAC3](https://github.com/automl/SMAC3):SMAC is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms across a set of instances. This also includes hyperparameter optimization of ML algorithms. The main core consists of Bayesian Optimization in combination with a aggressive racing mechanism to efficiently decide which of two configuration performs better
+- [TPOT](https://github.com/EpistasisLab/tpot): is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
+- [Auto-WEKA](https://github.com/automl/autoweka):Repository for Auto-WEKA, wich provides automatic selection of models and hyperparameters for WEKA
+- [Hyperopt](https://github.com/hyperopt/hyperopt):Distributed Asynchronous Hyperparameter Optimization in Python, for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
+- [Hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn):Hyperopt-sklearn is Hyperopt-based model selection among machine learning algorithms in scikit-learn.
+- [SigOpt](https://sigopt.com/):SigOpt is a standardized, scalable, enterprise-grade optimization platform and API designed to unlock the potential of your modeling pipelines. This fully agnostic software solution accelerates, amplifies, and scales the model development process.
+- [SMAC3](https://github.com/automl/SMAC3):SMAC is a tool for algorithm configuration to optimize the parameters of arbitrary algorithms across a set of instances. This also includes hyperparameter optimization of ML algorithms. The main core consists of Bayesian Optimization in combination with a aggressive racing mechanism to efficiently decide which of two configuration performs better
 - [Spearmint](https://github.com/HIPS/Spearmint):Spearmint is a software package to perform Bayesian optimization. The Software is designed to automatically run experiments (thus the code name spearmint) in a manner that iteratively adjusts a number of parameters so as to minimize some objective in as few runs as possible
 - [MOE](https://github.com/Yelp/MOE):MOE (Metric Optimization Engine) is an efficient way to optimize a system's parameters, when evaluating parameters is time-consuming or expensive
-- 【python】[RoBO](https://github.com/automl/RoBO):RoBO uses the Gaussian processes library george and the random forests library pyrfr.
-- 【python】[BayesianOptimization](https://github.com/fmfn/BayesianOptimization):This is a constrained global optimization package built upon bayesian inference and gaussian process, that attempts to find the maximum value of an unknown function in as few iterations as possible. This technique is particularly suited for optimization of high cost functions, situations where the balance between exploration and exploitation is important
-- 【python】[Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize):Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts
-- 【python】[HyperBand](https://github.com/zygmuntz/hyperband):The goal is to provide a fully functional implementation of Hyperband, as well as a number of ready to use functions for a number of models (classifiers and regressors)
-- 【cpp】[BayesOpt](https://github.com/rmcantin/bayesopt):BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning
-- 【python】[Optunity](https://github.com/claesenm/optunity):Optunity is a library containing various optimizers for hyperparameter tuning. Hyperparameter tuning is a recurrent problem in many machine learning tasks, both supervised and unsupervised. Tuning examples include optimizing regularization or kernel parameters
+- [RoBO](https://github.com/automl/RoBO):RoBO uses the Gaussian processes library george and the random forests library pyrfr.
+- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization):This is a constrained global optimization package built upon bayesian inference and gaussian process, that attempts to find the maximum value of an unknown function in as few iterations as possible. This technique is particularly suited for optimization of high cost functions, situations where the balance between exploration and exploitation is important
+- [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize):Scikit-Optimize, or skopt, is a simple and efficient library to minimize (very) expensive and noisy black-box functions. It implements several methods for sequential model-based optimization. skopt aims to be accessible and easy to use in many contexts
+- [HyperBand](https://github.com/zygmuntz/hyperband):The goal is to provide a fully functional implementation of Hyperband, as well as a number of ready to use functions for a number of models (classifiers and regressors)
+- [BayesOpt](https://github.com/rmcantin/bayesopt):BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning
+- [Optunity](https://github.com/claesenm/optunity):Optunity is a library containing various optimizers for hyperparameter tuning. Hyperparameter tuning is a recurrent problem in many machine learning tasks, both supervised and unsupervised. Tuning examples include optimizing regularization or kernel parameters
 - 【Commercial】[Cloud AutoML](https://cloud.google.com/automl/)
-- 【python】[H2O-offical website](https://www.h2o.ai/);  [H2O-github](https://github.com/h2oai):Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc
+- [H2O-offical website](https://www.h2o.ai/);  [H2O-github](https://github.com/h2oai):Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc
 - 【Commercial】[DataRobot](https://www.datarobot.com/):Learn from an all-star lineup of expert speakers how to best leverage AI today to build business resilience, reduce costs, and speed time to results
-- 【python】[MLJAR](https://mljar.com/):An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
-- 【python】[MateLabs](http://matelabs.in/)
+- [MLJAR](https://mljar.com/):An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
+- [MateLabs](http://matelabs.in/)
 - [Angle-ml/automl](https://github.com/Angel-ML/automl)
 - [ackeras](https://github.com/accurat/ackeras)
 - [bananas](https://github.com/naszilla/bananas)
@@ -283,7 +283,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment)
 - [DARTS](https://github.com/quark0/darts)
 - [DEvol](https://github.com/joeddav/devol):DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.:DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.
-- 【pytho】[recipe](https://github.com/laic-ufmg/Recipe)
+- [recipe](https://github.com/laic-ufmg/Recipe)
 - [glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md)
 - [automlr](https://github.com/mb706/automlr)
 - [auto_ts](https://github.com/AutoViML/Auto_TS)
@@ -308,7 +308,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [modgen](https://github.com/SaltWaterStudio/modgen)
 - [skplumber](https://github.com/epeters3/skplumber)
 - [predictionio-template-automl](https://github.com/takezoe/predictionio-template-automl)
-- 【python】[Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
+- [Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
 - [keras-tuner](https://github.com/keras-team/keras-tuner):Hyperparameter tuning for humans
 - [pytorch-meta](https://github.com/tristandeleu/pytorch-meta):A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch. Torchmeta contains popular meta-learning benchmarks, fully compatible with both torchvision and PyTorch's DataLoader
 - [learn2learn](https://github.com/learnables/learn2learn):PyTorch Meta-learning Library for Researchers
@@ -322,7 +322,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [xgbtune](https://github.com/MainRo/xgbtune)
 - [hypertunity](https://github.com/gdikov/hypertunity):A toolset for black-box hyperparameter optimisation.
 - [HPOlib2](https://github.com/automl/HPOlib2):HPOlib2 is a library for hyperparameter optimization and black box optimization benchmarks.
-- 【R】[SmartML](https://github.com/DataSystemsGroupUT/SmartML)
+- [SmartML](https://github.com/DataSystemsGroupUT/SmartML)
 - [rembo](https://github.com/ziyuw/rembo):Bayesian optimization in high-dimensions via random embedding.
 - [optuna](https://github.com/optuna/optuna):Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters
 - [RoBO](https://github.com/automl/RoBO):RoBO: a Robust Bayesian Optimization framework
@@ -332,8 +332,8 @@ ps:The theme is a bit confusing and I will modify it later.
 - [paper][ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf)
 
 ### Distributed Frameworks
-- [scala][MLBase](http://www.mlbase.org/)
-- 【python】[ATM](https://github.com/HDI-Project/ATM)
+- [MLBase](http://www.mlbase.org/)
+- [ATM](https://github.com/HDI-Project/ATM)
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
 - [rafiki](https://github.com/nginyc/rafiki)
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
