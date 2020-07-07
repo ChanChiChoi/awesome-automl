@@ -382,3 +382,4 @@ ps:The theme is a bit confusing and I will modify it later.
 - [Automl-benchmark](https://jonathankrauss.github.io/AutoML-Benchmark/)
 - [openml/automlbenckMark](https://github.com/openml/automlbenchmark)
 - [jessecui/automl-benckmarking](https://github.com/jessecui/automl-benchmarking)
+- [gaocegege.com/Blog/katib-new](http://gaocegege.com/Blog/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/katib-new#%E6%80%BB%E7%BB%93%E4%B8%8E%E5%88%86%E6%9E%90)
