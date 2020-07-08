@@ -333,14 +333,14 @@ ps:The theme is a bit confusing and I will modify it later.
 
 ### Distributed Frameworks
 - [MLBase](http://www.mlbase.org/):
-- [ATM](https://github.com/HDI-Project/ATM):
-- [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
-- [rafiki](https://github.com/nginyc/rafiki)
-- [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
-- [ATMSeer](https://github.com/HDI-Project/ATMSeer)
-- [D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML)
-- [Databricks](https://databricks.com/product/automl-on-databricks#resource-link)
-- [HpBandSter](https://github.com/automl/HpBandSter):a distributed Hyperband implementation on Steroids
+- [HDI-Project/ATM](https://github.com/HDI-Project/ATM):
+- [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
+- [nginyc/rafiki](https://github.com/nginyc/rafiki):
+- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI):
+- [HDI-Project/ATMSeer](https://github.com/HDI-Project/ATMSeer):
+- [DataSystemsGroupUT/D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML):
+- [Databricks](https://databricks.com/product/automl-on-databricks#resource-link):
+- [automl/HpBandSter](https://github.com/automl/HpBandSter):a distributed Hyperband implementation on Steroids
 
 
 
