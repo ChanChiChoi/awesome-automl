@@ -224,7 +224,7 @@ ps:The theme is a bit confusing and I will modify it later.
 
 - [mlpapers/automl](https://github.com/mlpapers/automl)
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)
-- [FeatureLabs/Featuretools](https://github.com/FeatureLabs/featuretools):    a good library for automatically engineering features from relational and transactional data
+- **[FeatureLabs/Featuretools](https://github.com/FeatureLabs/featuretools)**:    a good library for automatically engineering features from relational and transactional data
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn):    it's really a drop-in replacement for scikit-learn estimators.
 - [reiinakano/Xcessive](https://github.com/reiinakano/xcessiv):    A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
 - [ray-project/ray](https://github.com/ray-project/ray):    A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library
