@@ -222,8 +222,8 @@ ps:The theme is a bit confusing and I will modify it later.
 ---
 ## Libraries
 
-- **[mlpapers/automl](https://github.com/mlpapers/automl)**
-- **[shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)**
+- **[mlpapers/automl](https://github.com/mlpapers/automl)**:
+- **[shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)**:
 - **[FeatureLabs/Featuretools](https://github.com/FeatureLabs/featuretools)**:    a good library for automatically engineering features from relational and transactional data
 - **[automl/auto-sklearn](https://github.com/automl/auto-sklearn)**:    it's really a drop-in replacement for scikit-learn estimators.
 - **[reiinakano/Xcessive](https://github.com/reiinakano/xcessiv)**:    A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
@@ -260,55 +260,55 @@ ps:The theme is a bit confusing and I will modify it later.
 - [zygmuntz/HyperBand](https://github.com/zygmuntz/hyperband):    The goal is to provide a fully functional implementation of Hyperband, as well as a number of ready to use functions for a number of models (classifiers and regressors)
 - [rmcantin/BayesOpt](https://github.com/rmcantin/bayesopt):    BayesOpt is an efficient implementation of the Bayesian optimization methodology for nonlinear optimization, experimental design and hyperparameter tunning
 - [claesenm/Optunity](https://github.com/claesenm/optunity):    Optunity is a library containing various optimizers for hyperparameter tuning. Hyperparameter tuning is a recurrent problem in many machine learning tasks, both supervised and unsupervised. Tuning examples include optimizing regularization or kernel parameters
-- 【Commercial】[Cloud AutoML](https://cloud.google.com/automl/)
+- 【Commercial】[Cloud AutoML](https://cloud.google.com/automl/):
 - [H2O-offical website](https://www.h2o.ai/);  [H2O-github](https://github.com/h2oai):    Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc
 - 【Commercial】[DataRobot](https://www.datarobot.com/):    Learn from an all-star lineup of expert speakers how to best leverage AI today to build business resilience, reduce costs, and speed time to results
 - [MLJAR](https://mljar.com/):    An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
-- [MateLabs](http://matelabs.in/)
-- [Angle-ml/automl](https://github.com/Angel-ML/automl)
-- [accurat/ackeras](https://github.com/accurat/ackeras)
-- [naszilla/bananas](https://github.com/naszilla/bananas)
-- [auto-flow/auto-flow](https://github.com/auto-flow/auto-flow)
-- [r-tensorflow/autokeras](https://github.com/r-tensorflow/autokeras)
-- [IBM/lale](https://github.com/IBM/lale)
-- [awslabs/adatune](https://github.com/awslabs/adatune)
-- [CiscoAI/amla](https://github.com/CiscoAI/amla)
-- [xiaomi-automl/fairdarts](https://github.com/xiaomi-automl/FairDARTS)
-- [cod3licious/autofeat](https://github.com/cod3licious/autofeat)
-- [google-research/morphnet](https://github.com/google-research/morph-net)
-- [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga)
-- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex)
-- [logicalclocks/maggy](https://github.com/logicalclocks/maggy)
-- [crawles/automl_service](https://github.com/crawles/automl_service)
-- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment)
-- [quark0/DARTS](https://github.com/quark0/darts)
+- [MateLabs](http://matelabs.in/):
+- [Angle-ml/automl](https://github.com/Angel-ML/automl):
+- [accurat/ackeras](https://github.com/accurat/ackeras):
+- [naszilla/bananas](https://github.com/naszilla/bananas):
+- [auto-flow/auto-flow](https://github.com/auto-flow/auto-flow):
+- [r-tensorflow/autokeras](https://github.com/r-tensorflow/autokeras):
+- [IBM/lale](https://github.com/IBM/lale):
+- [awslabs/adatune](https://github.com/awslabs/adatune):
+- [CiscoAI/amla](https://github.com/CiscoAI/amla):
+- [xiaomi-automl/fairdarts](https://github.com/xiaomi-automl/FairDARTS):
+- [cod3licious/autofeat](https://github.com/cod3licious/autofeat):
+- [google-research/morphnet](https://github.com/google-research/morph-net):
+- [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga):
+- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex):
+- [logicalclocks/maggy](https://github.com/logicalclocks/maggy):
+- [crawles/automl_service](https://github.com/crawles/automl_service):
+- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment):
+- [quark0/DARTS](https://github.com/quark0/darts):
 - [joeddav/DEvol](https://github.com/joeddav/devol):    DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.:DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.
-- [laic-ufmg/recipe](https://github.com/laic-ufmg/Recipe)
-- [ccnt-glaucus/glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md)
-- [mb706/automlr](https://github.com/mb706/automlr)
-- [AutoViML/auto_ts](https://github.com/AutoViML/Auto_TS)
-- [gfluz94/aautoml-gfluz](https://github.com/gfluz94/automl-gfluz)
-- [giantcroc/featuretoolsOnSpark](https://github.com/giantcroc/featuretoolsOnSpark)
-- [pierre-chaville/automlk](https://github.com/pierre-chaville/automlk)
-- [georgianpartners/foreshadow](https://github.com/georgianpartners/foreshadow)
-- [societe-generale/aikit](https://github.com/societe-generale/aikit)
-- [onepanelio/automl](https://github.com/onepanelio/automl)
-- [SoftwareAG/mlw](https://github.com/SoftwareAG/MLW)
-- [souryadey/deep-n-cheap](https://github.com/souryadey/deep-n-cheap)
-- [ksachdeva/scikit-nni](https://github.com/ksachdeva/scikit-nni)
-- [deil87/automl-genetic](https://github.com/deil87/automl-genetic)
-- [CleverInsight/cognito](https://github.com/CleverInsight/cognito)
-- [kxsystems/automl](https://github.com/KxSystems/automl)
-- [bhat-prashant/reinforceML](https://github.com/bhat-prashant/reinforceML)
-- [thomas-young-2013/alpha-ml](https://github.com/thomas-young-2013/alpha-ml)
-- [wywongbd/autocluster](https://github.com/wywongbd/autocluster)
-- [Media-Smart/volkstuner](https://github.com/Media-Smart/volkstuner)
-- [mihaianton/automl](https://github.com/MihaiAnton/AutoML)
-- [gomerudo/automl](https://github.com/gomerudo/auto-ml)
-- [SaltWaterStudio/modgen](https://github.com/SaltWaterStudio/modgen)
-- [epeters3/skplumber](https://github.com/epeters3/skplumber)
-- [takezoe/predictionio-template-automl](https://github.com/takezoe/predictionio-template-automl)
-- [LGE-ARC-AdvancedAI/Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer)
+- [laic-ufmg/recipe](https://github.com/laic-ufmg/Recipe):
+- [ccnt-glaucus/glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md):
+- [mb706/automlr](https://github.com/mb706/automlr):
+- [AutoViML/auto_ts](https://github.com/AutoViML/Auto_TS):
+- [gfluz94/aautoml-gfluz](https://github.com/gfluz94/automl-gfluz):
+- [giantcroc/featuretoolsOnSpark](https://github.com/giantcroc/featuretoolsOnSpark):
+- [pierre-chaville/automlk](https://github.com/pierre-chaville/automlk):
+- [georgianpartners/foreshadow](https://github.com/georgianpartners/foreshadow):
+- [societe-generale/aikit](https://github.com/societe-generale/aikit):
+- [onepanelio/automl](https://github.com/onepanelio/automl):
+- [SoftwareAG/mlw](https://github.com/SoftwareAG/MLW):
+- [souryadey/deep-n-cheap](https://github.com/souryadey/deep-n-cheap):
+- [ksachdeva/scikit-nni](https://github.com/ksachdeva/scikit-nni):
+- [deil87/automl-genetic](https://github.com/deil87/automl-genetic):
+- [CleverInsight/cognito](https://github.com/CleverInsight/cognito):
+- [kxsystems/automl](https://github.com/KxSystems/automl):
+- [bhat-prashant/reinforceML](https://github.com/bhat-prashant/reinforceML):
+- [thomas-young-2013/alpha-ml](https://github.com/thomas-young-2013/alpha-ml):
+- [wywongbd/autocluster](https://github.com/wywongbd/autocluster):
+- [Media-Smart/volkstuner](https://github.com/Media-Smart/volkstuner):
+- [mihaianton/automl](https://github.com/MihaiAnton/AutoML):
+- [gomerudo/automl](https://github.com/gomerudo/auto-ml):
+- [SaltWaterStudio/modgen](https://github.com/SaltWaterStudio/modgen):
+- [epeters3/skplumber](https://github.com/epeters3/skplumber):
+- [takezoe/predictionio-template-automl](https://github.com/takezoe/predictionio-template-automl):
+- [LGE-ARC-AdvancedAI/Auptimizer](https://github.com/LGE-ARC-AdvancedAI/auptimizer):
 - [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner):    Hyperparameter tuning for humans
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta):    A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch. Torchmeta contains popular meta-learning benchmarks, fully compatible with both torchvision and PyTorch's DataLoader
 - [learnables/learn2learn](https://github.com/learnables/learn2learn):    PyTorch Meta-learning Library for Researchers
@@ -316,24 +316,24 @@ ps:The theme is a bit confusing and I will modify it later.
 - [automl/Auto-Pytorch](https://github.com/automl/Auto-PyTorch):    Automatic architecture search and hyperparameter optimization for PyTorch
 - [kubeflow/katib](https://github.com/kubeflow/katib):    Katib is a Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search. Katib supports a number of ML frameworks, including TensorFlow, Apache MXNet, PyTorch, XGBoost, and others
 - [uber/ludwig](https://github.com/uber/ludwig):    Ludwig is a toolbox built on top of TensorFlow that allows users to train and test deep learning models without the need to write code
-- [BartekPog/Automl-library](https://github.com/BartekPog/AutoML-Library)
-- [tqichun/distributed-SMAC3](https://github.com/tqichun/distributed-SMAC3)
-- [linxihui/lazyML](https://github.com/linxihui/lazyML)
-- [MainRo/xgbtune](https://github.com/MainRo/xgbtune)
+- [BartekPog/Automl-library](https://github.com/BartekPog/AutoML-Library):
+- [tqichun/distributed-SMAC3](https://github.com/tqichun/distributed-SMAC3):
+- [linxihui/lazyML](https://github.com/linxihui/lazyML):
+- [MainRo/xgbtune](https://github.com/MainRo/xgbtune):
 - [gdikov/hypertunity](https://github.com/gdikov/hypertunity):    A toolset for black-box hyperparameter optimisation.
 - [automl/HPOlib2](https://github.com/automl/HPOlib2):    HPOlib2 is a library for hyperparameter optimization and black box optimization benchmarks.
-- [DataSystemsGroupUT/SmartML](https://github.com/DataSystemsGroupUT/SmartML)
+- [DataSystemsGroupUT/SmartML](https://github.com/DataSystemsGroupUT/SmartML):
 - [ziyuw/rembo](https://github.com/ziyuw/rembo):    Bayesian optimization in high-dimensions via random embedding.
 - [optuna/optuna](https://github.com/optuna/optuna):    Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters
 - [automl/RoBO](https://github.com/automl/RoBO):    RoBO a Robust Bayesian Optimization framework
-- [paper][AutoStacker](https://arxiv.org/abs/1803.00684)
-- [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf)
-- [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers)
-- [paper][ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf)
+- [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
+- [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf):
+- [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers):
+- [paper][ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf):
 
 ### Distributed Frameworks
-- [MLBase](http://www.mlbase.org/)
-- [ATM](https://github.com/HDI-Project/ATM)
+- [MLBase](http://www.mlbase.org/):
+- [ATM](https://github.com/HDI-Project/ATM):
 - [MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
 - [rafiki](https://github.com/nginyc/rafiki)
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
