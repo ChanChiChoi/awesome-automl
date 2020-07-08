@@ -24,6 +24,7 @@ collecting related resources of automated machine learning here. some links were
 - [][pbiecek/automl_resources](https://github.com/pbiecek/automl_resources)
 - [][jphall663/automl_resources](https://github.com/jphall663/automl_resources)
 - [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
+- [][eug/ai-resources](https://github.com/eug/ai-resources)
 
 --------------------------------
 keyword:"meta learning"
