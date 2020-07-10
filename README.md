@@ -326,6 +326,9 @@ ps:The theme is a bit confusing and I will modify it later.
 - [ziyuw/rembo](https://github.com/ziyuw/rembo):    Bayesian optimization in high-dimensions via random embedding.
 - [optuna/optuna](https://github.com/optuna/optuna):    Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters
 - [automl/RoBO](https://github.com/automl/RoBO):    RoBO a Robust Bayesian Optimization framework
+- [AutoCross](https://www.4paradigm.com/):
+- [HyperTune](https://bit.ly/2IMsECx):
+- [DarwinML](http://iqubic.net/)
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
 - [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf):
 - [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers):
