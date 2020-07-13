@@ -216,7 +216,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - Rippel O, Weninger L, Merhof D. [AutoML Segmentation for 3D Medical Image Data: Contribution to the MSD Challenge 2018](https://arxiv.org/pdf/2005.09978)[J]. arXiv preprint arXiv:2005.09978, 2020.
 - Ren P, Xiao Y, Chang X, et al. [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions](https://arxiv.org/pdf/2006.02903)[J]. arXiv preprint arXiv:2006.02903, 2020.
 - Liu Z, Bousquet O, Elisseeff A, et al. [AutoDL Challenge Design and Beta Tests-Towards automatic deep learning](https://hal.archives-ouvertes.fr/hal-01906226/file/AutoDL_challenge_design_and_beta_tests_____towards_Automatic_Deep_Learning.pdf)[C]. 2018.
-- Pan X. [Application of Machine Learning Algorithm in Human Resource Recommendation: From Tradition Machine Learning Algorithm to AutoML](https://download.atlantis-press.com/article/125938274.pdf)[C]//5th International Conference on Social Sciences and Economic Development (ICSSED 2020). Atlantis Press, 2020: 154-157.
+
 
 ---
 ## blogs & articles & book
