@@ -201,6 +201,23 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【more efficient】Bowen Baker, et al. Baker B, Gupta O, Raskar R, et al. [Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/pdf?id=BJypUGZ0Z)[J]. 2018.
 - 【Architecture Search】Huang, Siyu, et al. [GNAS: A Greedy Neural Architecture Search Method for Multi-Attribute Learning.](https://arxiv.org/abs/1804.06964) arXiv preprint arXiv:1804.06964 (2018).
 
+
+---
+## SURVEY
+- Elsken T, Metzen J H, Hutter F. [Neural architecture search: A survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)[J]. arXiv preprint arXiv:1808.05377, 2018.
+- Yao Q, Wang M, Chen Y, et al. [Taking human out of learning applications: A survey on automated machine learning](https://arxiv.org/pdf/1810.13306)[J]. arXiv preprint arXiv:1810.13306, 2018.
+- Zöller M A, Huber M F. [Benchmark and Survey of Automated Machine Learning Frameworks](https://arxiv.org/pdf/1904.12054)[J]. arXiv preprint arXiv:1904.12054, 2019.
+- Wistuba M, Rawat A, Pedapati T. [A survey on neural architecture search](https://arxiv.org/pdf/1905.01392)[J]. arXiv preprint arXiv:1905.01392, 2019.
+- Elshawi R, Maher M, Sakr S. [Automated machine learning: State-of-the-art and open challenges](https://arxiv.org/pdf/1906.02287)[J]. arXiv preprint arXiv:1906.02287, 2019.
+- Chen Y W, Song Q, Hu X. [Techniques for Automated Machine Learning](https://arxiv.org/pdf/1907.08908)[J]. arXiv preprint arXiv:1907.08908, 2019.
+- He X, Zhao K, Chu X. [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709.pdf,)[J]. arXiv preprint arXiv:1908.00709, 2019.
+- Ono J P, Castelo S, Lopez R, et al. [PipelineProfiler: A Visual Analytics Tool for the Exploration of AutoML Pipelines](https://arxiv.org/pdf/2005.00160)[J]. arXiv preprint arXiv:2005.00160, 2020.
+- Halvari T, Nurminen J K, Mikkonen T. [Testing the Robustness of AutoML Systems](https://arxiv.org/pdf/2005.02649)[J]. arXiv preprint arXiv:2005.02649, 2020.
+- Rippel O, Weninger L, Merhof D. [AutoML Segmentation for 3D Medical Image Data: Contribution to the MSD Challenge 2018](https://arxiv.org/pdf/2005.09978)[J]. arXiv preprint arXiv:2005.09978, 2020.
+- Ren P, Xiao Y, Chang X, et al. [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions](https://arxiv.org/pdf/2006.02903)[J]. arXiv preprint arXiv:2006.02903, 2020.
+- Liu Z, Bousquet O, Elisseeff A, et al. [AutoDL Challenge Design and Beta Tests-Towards automatic deep learning](https://hal.archives-ouvertes.fr/hal-01906226/file/AutoDL_challenge_design_and_beta_tests_____towards_Automatic_Deep_Learning.pdf)[C]. 2018.
+- Pan X. [Application of Machine Learning Algorithm in Human Resource Recommendation: From Tradition Machine Learning Algorithm to AutoML](https://download.atlantis-press.com/article/125938274.pdf)[C]//5th International Conference on Social Sciences and Economic Development (ICSSED 2020). Atlantis Press, 2020: 154-157.
+
 ---
 ## blogs & articles & book
 
