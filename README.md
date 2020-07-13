@@ -210,7 +210,8 @@ ps:The theme is a bit confusing and I will modify it later.
 - Wistuba M, Rawat A, Pedapati T. [A survey on neural architecture search](https://arxiv.org/pdf/1905.01392)[J]. arXiv preprint arXiv:1905.01392, 2019.
 - Elshawi R, Maher M, Sakr S. [Automated machine learning: State-of-the-art and open challenges](https://arxiv.org/pdf/1906.02287)[J]. arXiv preprint arXiv:1906.02287, 2019.
 - Chen Y W, Song Q, Hu X. [Techniques for Automated Machine Learning](https://arxiv.org/pdf/1907.08908)[J]. arXiv preprint arXiv:1907.08908, 2019.
-- He X, Zhao K, Chu X. [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709.pdf,)[J]. arXiv preprint arXiv:1908.00709, 2019.
+- He X, Zhao K, Chu X. [AutoML: A Survey of the State-of-the-Art](https://arxiv.org/pdf/1908.00709.pdf)[J]. arXiv preprint arXiv:1908.00709, 2019.
+- Truong A, Walters A, Goodsitt J, et al. [Towards automated machine learning: Evaluation and comparison of automl approaches and tools](https://arxiv.org/pdf/1908.05557.pdf)[J]. arXiv preprint arXiv:1908.05557, 2019.
 - Ono J P, Castelo S, Lopez R, et al. [PipelineProfiler: A Visual Analytics Tool for the Exploration of AutoML Pipelines](https://arxiv.org/pdf/2005.00160)[J]. arXiv preprint arXiv:2005.00160, 2020.
 - Halvari T, Nurminen J K, Mikkonen T. [Testing the Robustness of AutoML Systems](https://arxiv.org/pdf/2005.02649)[J]. arXiv preprint arXiv:2005.02649, 2020.
 - Rippel O, Weninger L, Merhof D. [AutoML Segmentation for 3D Medical Image Data: Contribution to the MSD Challenge 2018](https://arxiv.org/pdf/2005.09978)[J]. arXiv preprint arXiv:2005.09978, 2020.
