@@ -1,6 +1,5 @@
 # awesome-automl   
 collecting related resources of automated machine learning here. some links were from below,keyword:"automl,autodl"
-- [][DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
 - [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
 - [x][Algorithm Configuration Literature](http://aclib.net/acbib/)
@@ -366,6 +365,7 @@ ps:The theme is a bit confusing and I will modify it later.
 
 
 ## Projects
+- [DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
 - [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all)
 - [NoamRosenberg/autodeeplab](https://github.com/NoamRosenberg/autodeeplab)
 - [microsoft/forecasting](https://github.com/microsoft/forecasting)
