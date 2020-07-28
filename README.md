@@ -238,6 +238,7 @@ ps:The theme is a bit confusing and I will modify it later.
 
 ---
 ## Libraries
+[S:Structured Data; I:Image; A:Audio; N:NLP]
 
 - **[mlpapers/automl](https://github.com/mlpapers/automl)**:
 - **[shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)**:
@@ -245,8 +246,8 @@ ps:The theme is a bit confusing and I will modify it later.
 - **[automl/auto-sklearn](https://github.com/automl/auto-sklearn)**:    it's really a drop-in replacement for scikit-learn estimators.
 - **[reiinakano/Xcessive](https://github.com/reiinakano/xcessiv)**:    A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python
 - **[ray-project/ray](https://github.com/ray-project/ray)**:    A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library
-- **[keras-team/AutoKeras](https://github.com/keras-team/autokeras)**:    An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible for everyone
-- [microsoft/nni](https://github.com/microsoft/nni):    An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
+- **[I][keras-team/AutoKeras](https://github.com/keras-team/autokeras)**:    An AutoML system based on Keras. It is developed by DATA Lab at Texas A&M University. The goal of AutoKeras is to make machine learning accessible for everyone
+- [I][microsoft/nni](https://github.com/microsoft/nni):    An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
 - [tensorflow/adanet](https://github.com/tensorflow/adanet):    AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention. AdaNet builds on recent AutoML efforts to be fast and flexible while providing learning guarantees. Importantly, AdaNet provides a general framework for not only learning a neural network architecture, but also for learning to ensemble to obtain even better models
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb):    MindsDB is an Explainable AutoML framework for developers built on top of Pytorch. It enables you to build, train and test state of the art ML models in as simple as one line of code
 - [awslabs/autogluon](https://github.com/awslabs/autogluon):    AutoGluon automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data
