@@ -345,12 +345,22 @@ ps:The theme is a bit confusing and I will modify it later.
 - [automl/RoBO](https://github.com/automl/RoBO):    RoBO a Robust Bayesian Optimization framework
 - [AutoCross](https://www.4paradigm.com/):
 - [HyperTune](https://bit.ly/2IMsECx):
+- [ARM-software/mango](https://github.com/ARM-software/mango)
+- [microsoft/petridishnn](https://github.com/microsoft/petridishnn)
+- [cc-hpc-itwm/PHS](https://github.com/cc-hpc-itwm/PHS)
+- [autonomio/talos](https://github.com/autonomio/talos)
+- [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
 - [DarwinML](http://iqubic.net/)
+- [AX](https://ax.dev/)
+- [automl/bohb](https://www.automl.org/automl/bohb/)
+- [BOTORCH](https://botorch.org)
+- [google-research/automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero): AutoML-Zero aims to automatically discover computer programs that can solve machine learning tasks, starting from empty or random programs and using only basic math operations. The goal is to simultaneously search for all aspects of an ML algorithm—including the model structure and the learning strategy—while employing minimal human bias.
 - [flytxtds/AutoGBT](https://github.com/flytxtds/AutoGBT):    AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
 - [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf):
 - [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers):
 - [paper][ExploreKit](https://people.eecs.berkeley.edu/~dawnsong/papers/icdm-2016.pdf):
+
 
 ### Distributed Frameworks
 - [MLBase](http://www.mlbase.org/):
@@ -400,6 +410,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [udellgroup/Oboe](https://github.com/udellgroup/oboe)
 - [automl/Auto-Pytorch](https://github.com/automl/Auto-PyTorch)
 - [plabig/Dino](https://github.com/plabig/Dino)
+- [fillassuncao/automl-dsge](https://github.com/fillassuncao/automl-dsge)
 
 ## benchmark
 - [Alex-Lekov/automl-benchmark](https://github.com/Alex-Lekov/AutoML-Benchmark)
