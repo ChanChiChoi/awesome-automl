@@ -262,7 +262,6 @@ ps:The theme is a bit confusing and I will modify it later.
 - [dataloop-ai/zazuml](https://github.com/dataloop-ai/ZazuML):    This is an easy open-source AutoML framework for object detection. Currently this project contains a model & hyper-parameter tuner, auto augmentations, trial manager and prediction trigger, already loaded with your top preforming model-checkpoint. A working pipeline ready to be plugged into your product, simple as that
 - [Ashton-Sidhu/aethos](https://github.com/Ashton-Sidhu/aethos):    Aethos is a library/platform that automates your data science and analytical tasks at any stage in the pipeline. Aethos is, at its core, a uniform API that helps automate analytical techniques from various libaries such as pandas, sci-kit learn, gensim, etc
 - [databricks/automl-toolkit](https://github.com/databrickslabs/automl-toolkit):    This package provides a number of different levels of API interaction, from the highest-level "default only" FamilyRunner to low-level APIs that allow for highly customizable workflows to be created for automated ML tuning and Inference
-- [flytxtds/AutoGBT](https://github.com/flytxtds/AutoGBT):    AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [HDI-Project/AutobBzaar](https://github.com/HDI-Project/AutoBazaar):    AutoBazaar is an AutoML system created using The Machine Learning Bazaar, a research project and framework for building ML and AutoML systems by the Data To AI Lab at MIT.
 - [EpistasisLab/TPOT](https://github.com/EpistasisLab/tpot):    is using genetic programming to find the best performing ML pipelines, and it is built on top of scikit-learn
 - [automl/Auto-WEKA](https://github.com/automl/autoweka):    Repository for Auto-WEKA, wich provides automatic selection of models and hyperparameters for WEKA
@@ -347,6 +346,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [AutoCross](https://www.4paradigm.com/):
 - [HyperTune](https://bit.ly/2IMsECx):
 - [DarwinML](http://iqubic.net/)
+- [flytxtds/AutoGBT](https://github.com/flytxtds/AutoGBT):    AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
 - [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf):
 - [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers):
