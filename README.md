@@ -362,6 +362,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [DataSystemsGroupUT/D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML):
 - [Databricks](https://databricks.com/product/automl-on-databricks#resource-link):
 - [automl/HpBandSter](https://github.com/automl/HpBandSter):a distributed Hyperband implementation on Steroids
+- [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo): 
 
 
 
