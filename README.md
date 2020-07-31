@@ -351,7 +351,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [autonomio/talos](https://github.com/autonomio/talos)
 - [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
 - [DarwinML](http://iqubic.net/)
-- [AX](https://ax.dev/)
+- [facebook/AX](https://ax.dev/);[github](https://github.com/facebook/Ax):
 - [automl/bohb](https://www.automl.org/automl/bohb/)
 - [BOTORCH](https://botorch.org)
 - [google-research/automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero): AutoML-Zero aims to automatically discover computer programs that can solve machine learning tasks, starting from empty or random programs and using only basic math operations. The goal is to simultaneously search for all aspects of an ML algorithm—including the model structure and the learning strategy—while employing minimal human bias.
