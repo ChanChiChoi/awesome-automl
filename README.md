@@ -357,7 +357,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [HDI-Project/ATM](https://github.com/HDI-Project/ATM):
 - [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
 - [nginyc/rafiki](https://github.com/nginyc/rafiki):
-- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI):
+- [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI): TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Apache Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. Through automation, it achieves accuracies close to hand-tuned models with almost 100x reduction in time.
 - [HDI-Project/ATMSeer](https://github.com/HDI-Project/ATMSeer):
 - [DataSystemsGroupUT/D-SmartML](https://github.com/DataSystemsGroupUT/Distributed-SmartML):
 - [Databricks](https://databricks.com/product/automl-on-databricks#resource-link):
