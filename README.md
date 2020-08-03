@@ -339,17 +339,15 @@ ps:The theme is a bit confusing and I will modify it later.
 - [ziyuw/rembo](https://github.com/ziyuw/rembo):    Bayesian optimization in high-dimensions via random embedding.
 - [optuna/optuna](https://github.com/optuna/optuna):    Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. It features an imperative, define-by-run style user API. Thanks to our define-by-run API, the code written with Optuna enjoys high modularity, and the user of Optuna can dynamically construct the search spaces for the hyperparameters
 - [automl/RoBO](https://github.com/automl/RoBO):    RoBO a Robust Bayesian Optimization framework
-- [AutoCross](https://www.4paradigm.com/):
-- [HyperTune](https://bit.ly/2IMsECx):
-- [ARM-software/mango](https://github.com/ARM-software/mango)
-- [microsoft/petridishnn](https://github.com/microsoft/petridishnn)
-- [cc-hpc-itwm/PHS](https://github.com/cc-hpc-itwm/PHS)
-- [autonomio/talos](https://github.com/autonomio/talos)
-- [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
-- [DarwinML](http://iqubic.net/)
-- [facebook/AX](https://ax.dev/);[github](https://github.com/facebook/Ax):
-- [automl/bohb](https://www.automl.org/automl/bohb/)
-- [BOTORCH](https://botorch.org)
+- 【Commercial】[AutoCross](https://www.4paradigm.com/): 第四范式
+- [ARM-software/mango](https://github.com/ARM-software/mango):  Mango is a python library for parallel optimization over complex search spaces. Currently, Mango is intended to find the optimal hyperparameters for machine learning algorithms. Check out the quick 12 seconds demo of Mango approximating a complex decision boundary of SVM
+- [cc-hpc-itwm/PHS](https://github.com/cc-hpc-itwm/PHS):  phs is an ergonomic framework for performing hyperparameter searches on numerous cumpute instances of any arbitrary python function. This is achieved with minimal modifications inside your target function. Possible applications appear in expensive to evaluate numerical computations which strongly depend on hyperparameters such as machine learning
+- [autonomio/talos](https://github.com/autonomio/talos):  alos radically changes the ordinary Keras workflow by fully automating hyperparameter tuning and model evaluation. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
+- [HunterMcGushion/hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter): Automatically save and learn from Experiment results, leading to long-term, persistent optimization that remembers all your tests. HyperparameterHunter provides a wrapper for machine learning algorithms that saves all the important data. Simplify the experimentation and hyperparameter tuning process by letting HyperparameterHunter do the hard work of recording, organizing, and learning from your tests — all while using the same libraries you already do. Don't let any of your experiments go to waste, and start doing hyperparameter optimization the way it was meant to be
+- 【Commercial】[DarwinML](http://iqubic.net/): 探智立方
+- [facebook/AX](https://ax.dev/);[github](https://github.com/facebook/Ax):  Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. Adaptive experimentation is the machine-learning guided process of iteratively exploring a (possibly infinite) parameter space in order to identify optimal configurations in a resource-efficient manner. Ax currently supports Bayesian optimization and bandit optimization as exploration strategies. Bayesian optimization in Ax is powered by BoTorch, a modern library for Bayesian optimization research built on PyTorch
+- [automl/bohb](https://www.automl.org/automl/bohb/):  a distributed Hyperband implementation on Steroids. This python 3 package is a framework for distributed hyperparameter optimization. It started out as a simple implementation of Hyperband (Li et al. 2017), and contains an implementation of BOHB (Falkner et al. 2018)
+- [BOTORCH](https://botorch.org);[github](https://github.com/pytorch/botorch):  BoTorch is a library for Bayesian Optimization built on PyTorch
 - [google-research/automl_zero](https://github.com/google-research/google-research/tree/master/automl_zero): AutoML-Zero aims to automatically discover computer programs that can solve machine learning tasks, starting from empty or random programs and using only basic math operations. The goal is to simultaneously search for all aspects of an ML algorithm—including the model structure and the learning strategy—while employing minimal human bias.
 - [flytxtds/AutoGBT](https://github.com/flytxtds/AutoGBT):    AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
@@ -378,6 +376,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [xiaomi-automl/fairdarts](https://github.com/xiaomi-automl/FairDARTS):  This is the official implementation of the FairDARTS paper
 - [google-research/morphnet](https://github.com/google-research/morph-net):  MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure".
 - [quark0/DARTS](https://github.com/quark0/darts):  Differentiable architecture search for convolutional and recurrent networks. PyTorch 0.4 is not supported at this moment and would lead to OOM
+- [microsoft/petridishnn](https://github.com/microsoft/petridishnn):  Code for the neural architecture search methods contained in the paper Efficient Forward Neural Architecture Search
 - [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all)
 - [NoamRosenberg/autodeeplab](https://github.com/NoamRosenberg/autodeeplab)
 - [microsoft/forecasting](https://github.com/microsoft/forecasting)
