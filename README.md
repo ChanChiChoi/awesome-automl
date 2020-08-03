@@ -303,6 +303,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [learnables/learn2learn](https://github.com/learnables/learn2learn):    PyTorch Meta-learning Library for Researchers
 - [dragonfly/Dragonfly](https://github.com/dragonfly/dragonfly):    An open source python library for scalable Bayesian optimisation.
 - [BartekPog/Automl-library](https://github.com/BartekPog/AutoML-Library):  Simple python package for creating predictive models.This package contains a Machine which is meant to do the learning for you. It can automaticly create a fitting predictive model for given data
+- 【Commercial】[AutoCross](https://www.4paradigm.com/): 第四范式
 - [Yelp/MOE](https://github.com/Yelp/MOE):    MOE (Metric Optimization Engine) is an efficient way to optimize a system's parameters, when evaluating parameters is time-consuming or expensive
 - [flytxtds/AutoGBT](https://github.com/flytxtds/AutoGBT):    AutoGBT stands for Automatically Optimized Gradient Boosting Trees, and is used for AutoML in a lifelong machine learning setting to classify large volume high cardinality data streams under concept-drift. AutoGBT was developed by a joint team ('autodidact.ai') from Flytxt, Indian Institute of Technology Delhi and CSIR-CEERI as a part of NIPS 2018 AutoML Challenge (The 3rd AutoML Challenge: AutoML for Lifelong Machine Learning).
 - [MainRo/xgbtune](https://github.com/MainRo/xgbtune): XGBTune is a library for automated XGBoost model tuning. Tuning an XGBoost model is as simple as a single function call.
@@ -333,7 +334,6 @@ ps:The theme is a bit confusing and I will modify it later.
 - [zygmuntz/HyperBand](https://github.com/zygmuntz/hyperband):    The goal is to provide a fully functional implementation of Hyperband, as well as a number of ready to use functions for a number of models (classifiers and regressors)
 - [ziyuw/rembo](https://github.com/ziyuw/rembo):    Bayesian optimization in high-dimensions via random embedding.
 - 【Commercial】[DarwinML](http://iqubic.net/): 探智立方
-- 【Commercial】[AutoCross](https://www.4paradigm.com/): 第四范式
 - 【Commercial】[Cloud AutoML](https://cloud.google.com/automl/):
 - 【Commercial】[MateLabs](http://matelabs.ai/):
 - 【Commercial】[DataRobot](https://www.datarobot.com/):    Learn from an all-star lineup of expert speakers how to best leverage AI today to build business resilience, reduce costs, and speed time to results
