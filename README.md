@@ -282,23 +282,19 @@ ps:The theme is a bit confusing and I will modify it later.
 - 【Commercial】[DataRobot](https://www.datarobot.com/):    Learn from an all-star lineup of expert speakers how to best leverage AI today to build business resilience, reduce costs, and speed time to results
 - [MLJAR](https://mljar.com/):    An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 - [MateLabs](http://matelabs.in/):
-- [Angle-ml/automl](https://github.com/Angel-ML/automl):
-- [accurat/ackeras](https://github.com/accurat/ackeras):
-- [naszilla/bananas](https://github.com/naszilla/bananas):
-- [auto-flow/auto-flow](https://github.com/auto-flow/auto-flow):
-- [r-tensorflow/autokeras](https://github.com/r-tensorflow/autokeras):
-- [IBM/lale](https://github.com/IBM/lale):
-- [awslabs/adatune](https://github.com/awslabs/adatune):
-- [CiscoAI/amla](https://github.com/CiscoAI/amla):
-- [xiaomi-automl/fairdarts](https://github.com/xiaomi-automl/FairDARTS):
-- [cod3licious/autofeat](https://github.com/cod3licious/autofeat):
-- [google-research/morphnet](https://github.com/google-research/morph-net):
-- [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga):
-- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex):
-- [logicalclocks/maggy](https://github.com/logicalclocks/maggy):
-- [crawles/automl_service](https://github.com/crawles/automl_service):
-- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment):
-- [quark0/DARTS](https://github.com/quark0/darts):
+- [Angle-ml/automl](https://github.com/Angel-ML/automl):    Angel-AutoML provides automatic hyper-parameter tuning and feature engineering operators. It is developed with Scala. As a stand-alone library, Angel-AutoML can be easily integrated in Java and Scala projects.
+- [accurat/ackeras](https://github.com/accurat/ackeras):    AutoML library for Accurat, based on AutoKeras and Scikit-Learn
+- [naszilla/bananas](https://github.com/naszilla/bananas):    BANANAS is a neural architecture search (NAS) algorithm which uses Bayesian optimization with a meta neural network to predict the validation accuracy of neural architectures. We use a path-based encoding scheme to featurize the neural architectures that are used to train the neural network model. After training on just 200 architectures, we are able to predict the validation accuracy of new architectures to within one percent on average. The full NAS algorithm beats the state of the art on the NASBench and the DARTS search spaces. On the NASBench search space, BANANAS is over 100x more efficient than random search, and 3.8x more efficent than the next-best algorithm we tried. On the DARTS search space, BANANAS finds an architecture with a test error of 2.57%.
+- [auto-flow/auto-flow](https://github.com/auto-flow/auto-flow):  automatic machine learning workflow modeling platform
+- [r-tensorflow/autokeras](https://github.com/r-tensorflow/autokeras): AutoKeras is an open source software library for automated machine learning (AutoML). It is developed by DATA Lab at Texas A&M University and community contributors. The ultimate goal of AutoML is to provide easily accessible deep learning tools to domain experts with limited data science or machine learning background. AutoKeras provides functions to automatically search for architecture and hyperparameters of deep learning models.
+- [IBM/lale](https://github.com/IBM/lale):  Lale is a Python library for semi-automated data science. Lale makes it easy to automatically select algorithms and tune hyperparameters of pipelines that are compatible with scikit-learn, in a type-safe fashion. If you are a data scientist who wants to experiment with automated machine learning, this library is for you! Lale adds value beyond scikit-learn along three dimensions: automation, correctness checks, and interoperability. For automation, Lale provides a consistent high-level interface to existing pipeline search tools including Hyperopt, GridSearchCV, and SMAC. For correctness checks, Lale uses JSON Schema to catch mistakes when there is a mismatch between hyperparameters and their type, or between data and operators. And for interoperability, Lale has a growing library of transformers and estimators from popular libraries such as scikit-learn, XGBoost, PyTorch etc. Lale can be installed just like any other Python package and can be edited with off-the-shelf Python tools such as Jupyter notebooks
+- [awslabs/adatune](https://github.com/awslabs/adatune):    AdaTune is a library to perform gradient based hyperparameter tuning for training deep neural networks. AdaTune currently supports tuning of the learning_rate parameter but some of the methods implemented here can be extended to other hyperparameters like momentum or weight_decay etc. AdaTune provides the following gradient based hyperparameter tuning algorithms - HD, RTHO and our newly proposed algorithm, MARTHE. The repository also contains other commonly used non-adaptive learning_rate adaptation strategies like staircase-decay, exponential-decay and cosine-annealing-with-restarts. The library is implemented in PyTorch
+- [CiscoAI/amla](https://github.com/CiscoAI/amla):  AMLA is a common framework to run different AutoML algorithms for neural networks without changing the underlying systems needed to configure, train and evaluate the generated networks.
+- [cod3licious/autofeat](https://github.com/cod3licious/autofeat):  Linear Prediction Models with Automated Feature Engineering and Selection
+- [ypeleg/HungaBunga](https://github.com/ypeleg/HungaBunga):  Brute Force all scikit-learn models and all scikit-learn parameters with fit predict
+- [Alex-Lekov/AutoML_Alex](https://github.com/Alex-Lekov/AutoML_Alex):  State-of-the art Automated Machine Learning python library for Tabular Data
+- [crawles/automl_service](https://github.com/crawles/automl_service): Deploy automated machine learning (AutoML) as a service using Flask, for both pipeline training and pipeline serving. The framework implements a fully automated time series classification pipeline, automating both feature engineering and model selection and optimization using Python libraries, TPOT and tsfresh
+- [kakaobrain/fast-autoaugment](https://github.com/kakaobrain/fast-autoaugment):  Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [joeddav/DEvol](https://github.com/joeddav/devol):    DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.:DEvol (DeepEvolution) is a basic proof of concept for genetic architecture search in Keras. The current setup is designed for classification problems, though this could be extended to include any other output type as well.
 - [laic-ufmg/recipe](https://github.com/laic-ufmg/Recipe):
 - [ccnt-glaucus/glaucus](https://github.com/ccnt-glaucus/glaucus/blob/master/README_CN.md):
@@ -363,6 +359,7 @@ ps:The theme is a bit confusing and I will modify it later.
 
 
 ### Distributed Frameworks
+- [logicalclocks/maggy](https://github.com/logicalclocks/maggy):  Maggy is a framework for efficient asynchronous optimization of expensive black-box functions on top of Apache Spark. Compared to existing frameworks, maggy is not bound to stage based optimization algorithms and therefore it is able to make extensive use of early stopping in order to achieve efficient resource utilization.
 - [MLBase](http://www.mlbase.org/):
 - [HDI-Project/ATM](https://github.com/HDI-Project/ATM):
 - [AxeldeRomblay/MLBox](https://github.com/AxeldeRomblay/MLBox): is another AutoML library and it supports distributed data processing, cleaning, formatting, and state-of-the-art algorithms such as LightGBM and XGBoost. It also supports model stacking, which allows you to combine an information ensemble of models to generate a new model aiming to have better performance than the individual models.
@@ -378,6 +375,9 @@ ps:The theme is a bit confusing and I will modify it later.
 
 ## Projects
 - [DeepWisdom/AutoDL-cn](https://github.com/DeepWisdom/AutoDL)
+- [xiaomi-automl/fairdarts](https://github.com/xiaomi-automl/FairDARTS):  This is the official implementation of the FairDARTS paper
+- [google-research/morphnet](https://github.com/google-research/morph-net):  MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure".
+- [quark0/DARTS](https://github.com/quark0/darts):  Differentiable architecture search for convolutional and recurrent networks. PyTorch 0.4 is not supported at this moment and would lead to OOM
 - [mit-han-lab/once-for-all](https://github.com/mit-han-lab/once-for-all)
 - [NoamRosenberg/autodeeplab](https://github.com/NoamRosenberg/autodeeplab)
 - [microsoft/forecasting](https://github.com/microsoft/forecasting)
