@@ -1,10 +1,10 @@
 # awesome-automl   
 
-[Papers](https://github.com/ChanChiChoi/awesome-automl#papers)
-[blogs & articles & book](https://github.com/ChanChiChoi/awesome-automl#blogs--articles--book)
-[Libraries](https://github.com/ChanChiChoi/awesome-automl#libraries)
-[Projects](https://github.com/ChanChiChoi/awesome-automl#projects)
-[benchmark](https://github.com/ChanChiChoi/awesome-automl#benchmark)
+[Papers](https://github.com/ChanChiChoi/awesome-automl#papers)  
+[blogs & articles & book](https://github.com/ChanChiChoi/awesome-automl#blogs--articles--book)  
+[Libraries](https://github.com/ChanChiChoi/awesome-automl#libraries)  
+[Projects](https://github.com/ChanChiChoi/awesome-automl#projects)  
+[benchmark](https://github.com/ChanChiChoi/awesome-automl#benchmark)  
 
 collecting related resources of automated machine learning here. some links were from below,keyword:"automl,autodl"
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
