@@ -247,8 +247,9 @@ ps:The theme is a bit confusing and I will modify it later.
 ## Libraries
 [S:Structured Data; I:Image; A:Audio; N:NLP]
 
-- **[mlpapers/automl](https://github.com/mlpapers/automl)**:
-- **[shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries)**:
+- [mlpapers/automl](https://github.com/mlpapers/automl):
+- [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries):
+- [theainerd/automated-machine-learning](https://github.com/theainerd/automated-machine-learning):libraries
 - [SIAN][awslabs/autogluon](https://github.com/awslabs/autogluon):    AutoGluon automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data
 - [awslabs/adatune](https://github.com/awslabs/adatune):    AdaTune is a library to perform gradient based hyperparameter tuning for training deep neural networks. AdaTune currently supports tuning of the learning_rate parameter but some of the methods implemented here can be extended to other hyperparameters like momentum or weight_decay etc. AdaTune provides the following gradient based hyperparameter tuning algorithms - HD, RTHO and our newly proposed algorithm, MARTHE. The repository also contains other commonly used non-adaptive learning_rate adaptation strategies like staircase-decay, exponential-decay and cosine-annealing-with-restarts. The library is implemented in PyTorch
 - [I][microsoft/nni](https://github.com/microsoft/nni):    An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
@@ -342,6 +343,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [tobegit3hub/advisor](https://github.com/tobegit3hub/advisor):    Advisor is the hyper parameters tuning system for black box optimization
 - [HIPS/Spearmint](https://github.com/HIPS/Spearmint):    Spearmint is a software package to perform Bayesian optimization. The Software is designed to automatically run experiments (thus the code name spearmint) in a manner that iteratively adjusts a number of parameters so as to minimize some objective in as few runs as possible
 - [claesenm/Optunity](https://github.com/claesenm/optunity):    Optunity is a library containing various optimizers for hyperparameter tuning. Hyperparameter tuning is a recurrent problem in many machine learning tasks, both supervised and unsupervised. Tuning examples include optimizing regularization or kernel parameters
+- [cmccarthy1/automl](https://github.com/cmccarthy1/automl):The automated machine learning library described here is built largely on the tools available within the machine learning toolkit. The purpose of this framework is to provide users with the ability to automate the process of applying machine learning techniques to real-world problems. In the absence of expert machine learning engineers this handles the following processes within a traditional workflow
 - [zygmuntz/HyperBand](https://github.com/zygmuntz/hyperband):    The goal is to provide a fully functional implementation of Hyperband, as well as a number of ready to use functions for a number of models (classifiers and regressors)
 - [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml):Automates the whole machine learning process, making it super easy to use for both analytics, and getting real-time predictions in production.A quick overview of buzzwords, this project automates:1)Analytics (pass in data, and auto_ml will tell you the relationship of each variable to what it is you're trying to predict).2)Feature Engineering (particularly around dates, and NLP).3)Robust Scaling (turning all values into their scaled versions between the range of 0 and 1, in a way that is robust to outliers, and works with sparse data).4)Feature Selection (picking only the features that actually prove useful).5)Data formatting (turning a DataFrame or a list of dictionaries into a sparse matrix, one-hot encoding categorical variables, taking the natural log of y for regression problems, etc).6)Model Selection (which model works best for your problem- we try roughly a dozen apiece for classification and regression problems, including favorites like XGBoost if it's installed on your machine).7)Hyperparameter Optimization (what hyperparameters work best for that model).8)Big Data (feed it lots of data- it's fairly efficient with resources).9)Unicorns (you could conceivably train it to predict what is a unicorn and what is not).10)Ice Cream (mmm, tasty...).11)Hugs (this makes it much easier to do your job, hopefully leaving you more time to hug those those you care about).
 - [jgreenemi/Parris](https://github.com/jgreenemi/Parris):Parris is a tool for automating the training of machine learning algorithms. If you're the kind of person that works on ML algorithms and spends too much time setting up a server to run it on, having to log into it to monitor its progress, etc., then you will find this tool helpful. No need to SSH into instances to get your training jobs done
@@ -350,8 +352,8 @@ ps:The theme is a bit confusing and I will modify it later.
 - [jesse-toftum/cash_ml](https://github.com/jesse-toftum/cash_ml):Automates the whole machine learning process, making it super easy to use for both analytics, and getting real-time predictions in production
 - [CCQC/PES-Learn](https://github.com/CCQC/PES-Learn):PES-Learn is a Python library designed to fit system-specific Born-Oppenheimer potential energy surfaces using modern machine learning models. PES-Learn assists in generating datasets, and features Gaussian process and neural network model optimization routines. The goal is to provide high-performance models for a given dataset without requiring user expertise in machine learning.
 - [AlexIoannides/ml-workflow-automation](https://github.com/AlexIoannides/ml-workflow-automation):Python Machine Learning (ML) project that demonstrates the archetypal ML workflow within a Jupyter notebook, with automated model deployment as a RESTful service on Kubernetes.
-- [shahrzl/qAutomatedTrading](https://github.com/shahrzl/qAutomatedTrading):Automated trading platform based on Machine Learning algorithm using q/kdb+.
 - [yeticloud/dama](https://github.com/yeticloud/dama):a simplified machine learning container platform that helps teams get started with an automated workflow
+- [lai-bluejay/diego](https://github.com/lai-bluejay/diego):Diego: Data in, IntElliGence Out. A fast framework that supports the rapid construction of automated learning tasks. Simply create an automated learning study (Study) and generate correlated trials (Trial). Then run the code and get a machine learning model. Implemented using Scikit-learn API glossary, using Bayesian optimization and genetic algorithm.
 - 【Commercial】[DarwinML](http://iqubic.net/): 探智立方
 - 【Commercial】[Cloud AutoML](https://cloud.google.com/automl/):
 - 【Commercial】[MateLabs](http://matelabs.ai/):
@@ -418,19 +420,32 @@ ps:The theme is a bit confusing and I will modify it later.
 - [zhengying-liu/autodl](https://github.com/zhengying-liu/autodl):A machine learning competition in Automated Deep Learning (AutoDL), co-organized by ChaLearn, Google and 4Paradigm. Accepted at NeurIPS 2019.
 - [e2its/gdayf-core](https://github.com/e2its/gdayf-core)
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz)
+- [AutoViML/Auto_ViML_WHO](https://github.com/AutoViML/Auto_ViML_WHO):Automated Variant Interpretable Machine Learning project with Hyper Opt (WHO). Build Multiple, Interpretable, ML Models Fast. Now using Hyper Opt
 - [paypal/autskearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf)
+- [mikewlange/KETTLE](https://github.com/mikewlange/KETTLE)
+- [Yatoom/Optimus](https://github.com/Yatoom/Optimus)
+- [MihaiAnton/AutoML](https://github.com/MihaiAnton/AutoML)
+- [loaiabdalslam/AUL](https://github.com/loaiabdalslam/AUL)
+- [AlexImb/automl-streams](https://github.com/AlexImb/automl-streams)
+- [Jwuthri/Mozinor](https://github.com/Jwuthri/Mozinor)
 - [kakaobrain/autoclint](https://github.com/kakaobrain/autoclint)
 - [cmusatyalab/opentpod](https://github.com/cmusatyalab/OpenTPOD)
 - [pfnet-research/autpgbt-alt](https://github.com/pfnet-research/autogbt-alt)
 - [arberzela/efficientnas](https://github.com/arberzela/EfficientNAS)
 - [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe)
 - [TAMU-VITA/autospeech](https://github.com/TAMU-VITA/AutoSpeech)
+- [u1234x1234/AutoSpeech2020](https://github.com/u1234x1234/AutoSpeech2020):1st place solution to Automated Machine Learning https://www.automl.ai/competitions/2
+- [mittajithendra/Automated-Machine-Learning](https://github.com/mittajithendra/Automated-Machine-Learning):This project deals with only supervised learning problems. This project automatically do the job of a data scientist upto developing of a models.This project is designed on basis of different type of datasets
+- [aiorhiroki/farmer](https://github.com/aiorhiroki/farmer):You can train Classification and Segmentation tasks semi-automatically
 - [java][fmohr/AILibs](https://github.com/fmohr/AILibs)
 - [DAI-Lab/cardea](https://github.com/DAI-Lab/Cardea)
 - [datamllab/autokaggle](https://github.com/datamllab/autokaggle)
 - [chasedehan/diaml](https://github.com/chasedehan/diaml):
 - [signals-dev/greenguard](https://github.com/signals-dev/GreenGuard)
 - [MaximilianJohannesObpacher/automl_server](https://github.com/MaximilianJohannesObpacher/automl_server)
+- [yangfenglong/mAML1.0](https://github.com/yangfenglong/mAML1.0):Automated machine learning model building pipeline for microbiome data
+- [matheusccouto/autolearn](https://github.com/matheusccouto/autolearn):An uncomplicated API for simple problems.
+- [gabrieljaguiar/mtlExperiment](https://github.com/gabrieljaguiar/mtlExperiment):Automated Machine Learning Experiments.
 - [thomas-young-2013/soln-ml](https://github.com/thomas-young-2013/soln-ml)
 - [rsheth80/pmf-automl](https://github.com/rsheth80/pmf-automl):
 - [BeelGroup/auto-surprise](https://github.com/BeelGroup/Auto-Surprise)
@@ -460,3 +475,4 @@ ps:The theme is a bit confusing and I will modify it later.
 - [google-research/nasbench](https://github.com/google-research/nasbench)
 - [automl/nas_benchmarks](https://github.com/automl/nas_benchmarks)
 - [gaocegege.com/Blog/katib-new](http://gaocegege.com/Blog/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/katib-new#%E6%80%BB%E7%BB%93%E4%B8%8E%E5%88%86%E6%9E%90)
+- [yash1994/auto-awesome-list](https://github.com/yash1994/auto-awesome-list): An automated list of Machine Learning and Data Science tools from research organizations
