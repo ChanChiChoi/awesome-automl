@@ -31,6 +31,7 @@ collecting related resources of automated machine learning here. some links were
 - [][jphall663/automl_resources](https://github.com/jphall663/automl_resources)
 - [][LevineHuang/AutoML-Tutorials](https://github.com/LevineHuang/AutoML-Tutorials)
 - [][eug/ai-resources](https://github.com/eug/ai-resources)
+- [][alvesmarcos/research-thesis](https://github.com/alvesmarcos/research-thesis)
 
 --------------------------------
 keyword:"meta learning"
@@ -250,6 +251,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [mlpapers/automl](https://github.com/mlpapers/automl):
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries):
 - [Rakib091998/Auto_ML](https://github.com/Rakib091998/Auto_ML)
+- [DeepHiveMind/AutoML_AutoKeras_HPO](https://github.com/DeepHiveMind/AutoML_AutoKeras_HPO)
 - [theainerd/automated-machine-learning](https://github.com/theainerd/automated-machine-learning):libraries
 - [SIAN][awslabs/autogluon](https://github.com/awslabs/autogluon):    AutoGluon automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data
 - [awslabs/adatune](https://github.com/awslabs/adatune):    AdaTune is a library to perform gradient based hyperparameter tuning for training deep neural networks. AdaTune currently supports tuning of the learning_rate parameter but some of the methods implemented here can be extended to other hyperparameters like momentum or weight_decay etc. AdaTune provides the following gradient based hyperparameter tuning algorithms - HD, RTHO and our newly proposed algorithm, MARTHE. The repository also contains other commonly used non-adaptive learning_rate adaptation strategies like staircase-decay, exponential-decay and cosine-annealing-with-restarts. The library is implemented in PyTorch
@@ -370,6 +372,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [SciML/DataDrivenDiffEq.jl](https://github.com/SciML/DataDrivenDiffEq.jl):Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization
 - [ClimbsRocks/machineJS](https://github.com/ClimbsRocks/machineJS):a fully-featured default process for machine learning- all the parts are here and have functional default values in place. Modify to your heart's delight so you can focus on the important parts for your dataset, or run it all the way through with the default values to have fully automated machine learning
 - [automl-js/automl-js](https://github.com/automl-js/automl-js):Automated Machine Learning, done locally in browser or on a server with nodejs. Ground up implementation of ML algorithms for both regression and classification, such as Decision Trees, Linear Models and Gradient Boosting with Decision Trees. The implementation is benchmarked against excellent scikit-learn library to give quite close, albeit somewhat smaller (at most 1 percent of classification accuracy on average) score.
+- [duckladydinh/KotlinML](https://github.com/duckladydinh/KotlinML)
 - [paper][AutoStacker](https://arxiv.org/abs/1803.00684):
 - [paper][AlphaD3M](https://www.cs.columbia.edu/~idrori/AlphaD3M.pdf):
 - [paper][VDS](https://confer.csail.mit.edu/sigmod2019/papers):
@@ -424,6 +427,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [AutoViML/Auto_ViML_WHO](https://github.com/AutoViML/Auto_ViML_WHO):Automated Variant Interpretable Machine Learning project with Hyper Opt (WHO). Build Multiple, Interpretable, ML Models Fast. Now using Hyper Opt
 - [paypal/autskearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf)
 - [mikewlange/KETTLE](https://github.com/mikewlange/KETTLE)
+- [dstreamsai/AutoML](https://github.com/dstreamsai/AutoML)
 - [Yatoom/Optimus](https://github.com/Yatoom/Optimus)
 - [MihaiAnton/AutoML](https://github.com/MihaiAnton/AutoML)
 - [loaiabdalslam/AUL](https://github.com/loaiabdalslam/AUL)
@@ -439,6 +443,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [u1234x1234/AutoSpeech2020](https://github.com/u1234x1234/AutoSpeech2020):1st place solution to Automated Machine Learning https://www.automl.ai/competitions/2
 - [mittajithendra/Automated-Machine-Learning](https://github.com/mittajithendra/Automated-Machine-Learning):This project deals with only supervised learning problems. This project automatically do the job of a data scientist upto developing of a models.This project is designed on basis of different type of datasets
 - [aiorhiroki/farmer](https://github.com/aiorhiroki/farmer):You can train Classification and Segmentation tasks semi-automatically
+- [NCC-dev/farmer](https://github.com/NCC-dev/farmer):You can train Classification and Segmentation tasks as best practice
 - [java][fmohr/AILibs](https://github.com/fmohr/AILibs)
 - [DAI-Lab/cardea](https://github.com/DAI-Lab/Cardea)
 - [datamllab/autokaggle](https://github.com/datamllab/autokaggle)
@@ -477,6 +482,16 @@ ps:The theme is a bit confusing and I will modify it later.
 - [EricCacciavillani/eFlow](https://github.com/EricCacciavillani/eFlow)
 - [htoukour/AutoML](https://github.com/htoukour/AutoML)
 - [aarontuor/antk](https://github.com/aarontuor/antk)
+- [raalesir/automated_environment](https://github.com/raalesir/automated_environment)
+- [wcneill/data-science-at-home](https://github.com/wcneill/data-science-at-home)
+- [CodeSpaceHQ/MENGEL](https://github.com/CodeSpaceHQ/MENGEL)
+- [TrixiaBelleza/Automated-Text-Classification](https://github.com/TrixiaBelleza/Automated-Text-Classification)
+- [TwoRavens/TwoRavensSolver](https://github.com/TwoRavens/TwoRavensSolver)
+- [shoprunback/openflow](https://github.com/shoprunback/openflow)
+- [rahul1471/mlops](https://github.com/rahul1471/mlops)
+- [flaviassantos/dashboard](https://github.com/flaviassantos/dashboard)
+- [mattlm0831/AutoAI](https://github.com/mattlm0831/AutoAI)
+- [RadheTians/Automated-Data-Augmentation-Software](https://github.com/RadheTians/Automated-Data-Augmentation-Software):This tool has been implemented for data augmentation and has capability to generate xml file for Machine learning or Deep Learning Models
 
 ## benchmark
 - [Alex-Lekov/automl-benchmark](https://github.com/Alex-Lekov/AutoML-Benchmark)
@@ -487,3 +502,4 @@ ps:The theme is a bit confusing and I will modify it later.
 - [automl/nas_benchmarks](https://github.com/automl/nas_benchmarks)
 - [gaocegege.com/Blog/katib-new](http://gaocegege.com/Blog/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/katib-new#%E6%80%BB%E7%BB%93%E4%B8%8E%E5%88%86%E6%9E%90)
 - [yash1994/auto-awesome-list](https://github.com/yash1994/auto-awesome-list): An automated list of Machine Learning and Data Science tools from research organizations
+- [MaratSaidov/automl](https://github.com/MaratSaidov/automl)
