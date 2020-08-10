@@ -249,6 +249,7 @@ ps:The theme is a bit confusing and I will modify it later.
 
 - [mlpapers/automl](https://github.com/mlpapers/automl):
 - [shukwong/awesome_automl_libraries](https://github.com/shukwong/awesome_automl_libraries):
+- [Rakib091998/Auto_ML](https://github.com/Rakib091998/Auto_ML)
 - [theainerd/automated-machine-learning](https://github.com/theainerd/automated-machine-learning):libraries
 - [SIAN][awslabs/autogluon](https://github.com/awslabs/autogluon):    AutoGluon automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data
 - [awslabs/adatune](https://github.com/awslabs/adatune):    AdaTune is a library to perform gradient based hyperparameter tuning for training deep neural networks. AdaTune currently supports tuning of the learning_rate parameter but some of the methods implemented here can be extended to other hyperparameters like momentum or weight_decay etc. AdaTune provides the following gradient based hyperparameter tuning algorithms - HD, RTHO and our newly proposed algorithm, MARTHE. The repository also contains other commonly used non-adaptive learning_rate adaptation strategies like staircase-decay, exponential-decay and cosine-annealing-with-restarts. The library is implemented in PyTorch
@@ -432,6 +433,7 @@ ps:The theme is a bit confusing and I will modify it later.
 - [cmusatyalab/opentpod](https://github.com/cmusatyalab/OpenTPOD)
 - [pfnet-research/autpgbt-alt](https://github.com/pfnet-research/autogbt-alt)
 - [arberzela/efficientnas](https://github.com/arberzela/EfficientNAS)
+- [positron1/amlb](https://github.com/positron1/amlb)
 - [ealcobaca/pymfe](https://github.com/ealcobaca/pymfe)
 - [TAMU-VITA/autospeech](https://github.com/TAMU-VITA/AutoSpeech)
 - [u1234x1234/AutoSpeech2020](https://github.com/u1234x1234/AutoSpeech2020):1st place solution to Automated Machine Learning https://www.automl.ai/competitions/2
@@ -442,6 +444,10 @@ ps:The theme is a bit confusing and I will modify it later.
 - [datamllab/autokaggle](https://github.com/datamllab/autokaggle)
 - [chasedehan/diaml](https://github.com/chasedehan/diaml):
 - [signals-dev/greenguard](https://github.com/signals-dev/GreenGuard)
+- [a-hanf/mlr3automl](https://github.com/a-hanf/mlr3automl):In this repository we are developing mlr3automl, an AutoML package for mlr3.The project started in April 2020 and is supposed to be working in October 2020
+- [A2Amir/Machine-Learning-Pipelines](https://github.com/A2Amir/Machine-Learning-Pipelines):In this Repo, I am going to implement a message classifier by automating the machine-learning workflows with pipelines using the dataset of corporate messaging as a case study
+- [mattjhayes/amle](https://github.com/mattjhayes/amle):AMLE is a simple unopinionated framework for experimenting with machine learning (ML). I built it to help me learn ML, and to reduce my workload running ML experiments, by automating repeatable tasks.
+- [uncharted-distil/distil-auto-ml](https://github.com/uncharted-distil/distil-auto-ml):Distil Automated Machine Learning Server
 - [MaximilianJohannesObpacher/automl_server](https://github.com/MaximilianJohannesObpacher/automl_server)
 - [yangfenglong/mAML1.0](https://github.com/yangfenglong/mAML1.0):Automated machine learning model building pipeline for microbiome data
 - [matheusccouto/autolearn](https://github.com/matheusccouto/autolearn):An uncomplicated API for simple problems.
@@ -466,6 +472,11 @@ ps:The theme is a bit confusing and I will modify it later.
 - [paypal/autosklearn-zeroconf](https://github.com/paypal/autosklearn-zeroconf):The autosklearn-zeroconf file takes a dataframe of any size and trains auto-sklearn binary classifier ensemble. No configuration is needed as the name suggests. 
 - [AnyObject/OAT](https://github.com/AnyObject/OAT):Open Automatic Trading - A fully automated trading platform with machine learning capabilities
 - [jwmueller/KDD20-tutorial](https://github.com/jwmueller/KDD20-tutorial)
+- [mlaskowski17/Feature-Engineering](https://github.com/mlaskowski17/Feature-Engineering)
+- [mstaddon/GraniteAI](https://github.com/mstaddon/GraniteAI)
+- [EricCacciavillani/eFlow](https://github.com/EricCacciavillani/eFlow)
+- [htoukour/AutoML](https://github.com/htoukour/AutoML)
+- [aarontuor/antk](https://github.com/aarontuor/antk)
 
 ## benchmark
 - [Alex-Lekov/automl-benchmark](https://github.com/Alex-Lekov/AutoML-Benchmark)
