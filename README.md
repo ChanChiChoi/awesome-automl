@@ -8,7 +8,7 @@
 
 collecting related resources of automated machine learning here. some links were from below,keyword:"automl,autodl"
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
-- [x][literature-on-neural-architecture-search](http://www.ml4aad.org/literature-on-neural-architecture-search/)
+- [x][literature-on-neural-architecture-search](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 - [x][Algorithm Configuration Literature](http://aclib.net/acbib/)
 - [][windmaple/awesome-AutoML](https://github.com/windmaple/awesome-AutoML)
 - [][DataSystemsGroupUT/AutoML_Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey)
