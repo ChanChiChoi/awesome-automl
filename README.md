@@ -6,7 +6,7 @@
 [Projects](https://github.com/ChanChiChoi/awesome-automl#projects)  
 [benchmark](https://github.com/ChanChiChoi/awesome-automl#benchmark)  
 
-collecting related resources of automated machine learning here. some links were from below,keyword:"automl,autodl"
+collecting related resources of automated machine learning here. some links were from below,keyword:"automl,autodl,automated machine learning;hyperparameter optimization;neural architecture search"
 - [][hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)   
 - [x][literature-on-neural-architecture-search](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 - [x][Algorithm Configuration Literature](http://aclib.net/acbib/)
